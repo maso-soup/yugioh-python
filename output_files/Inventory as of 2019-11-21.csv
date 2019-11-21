@@ -1,0 +1,746 @@
+CardID,Occurrences,Name,Card Type,Property,Family,Type,Set Name,Print Tag,Rarity,Average Price,Low Price,Total Average Price,Total Low Price,7 Day Shift,30 Day Shift,6 Month Shift,Year Shift
+BLHR-EN046,1,Black Luster Soldier - Soldier of Chaos,monster,,earth,Warrior / Link,Battles of Legend: Hero's Revenge,BLHR-EN046,Secret Rare,71.09,67.49,71.09,67.49,-0.03,-0.02,0.0,0.0
+LART-EN011,1,Soul Drain,trap,Continuous,,,The Lost Art Promotion K,LART-EN011,Ultra Rare,8.84,2.79,8.84,2.79,0.05,-0.02,0.0,0.0
+BLHR-EN080,2,Shaddoll Falco,monster,,dark,Spellcaster / Flip,Battles of Legend: Hero's Revenge,BLHR-EN080,Ultra Rare,1.11,0.33,2.22,0.66,0.23,0.25,0.0,0.0
+BLHR-EN082,3,Shaddoll Squamata,monster,,dark,Spellcaster / Flip,Battles of Legend: Hero's Revenge,BLHR-EN082,Ultra Rare,1.11,0.33,3.33,0.99,-0.01,0.22,0.0,0.0
+BLHR-EN083,2,Shaddoll Beast,monster,,dark,Spellcaster / Flip,Battles of Legend: Hero's Revenge,BLHR-EN083,Ultra Rare,1.16,0.33,2.32,0.66,0.02,-0.2,0.0,0.0
+BLHR-EN070,1,Dinowrestler Pankratops,monster,,earth,Dinosaur / Effect,Battles of Legend: Hero's Revenge,BLHR-EN070,Secret Rare,4.7,2.64,4.7,2.64,-0.01,-0.04,0.0,0.0
+BLHR-EN075,2,Guardian of Order,monster,,light,Warrior / Effect,Battles of Legend: Hero's Revenge,BLHR-EN075,Ultra Rare,1.07,0.33,2.14,0.66,0.0,0.02,0.0,0.0
+BLHR-EN035,2,Battlewasp - Arbalest the Rapidfire,monster,,wind,Insect / Effect,Battles of Legend: Hero's Revenge,BLHR-EN035,Ultra Rare,1.05,0.33,2.1,0.66,-0.01,0.0,0.0,0.0
+BLHR-EN034,2,Battlewasp - Twinbow the Attacker,monster,,wind,Insect / Effect,Battles of Legend: Hero's Revenge,BLHR-EN034,Ultra Rare,1.09,0.33,2.18,0.66,0.03,-0.02,0.0,0.0
+BLHR-EN032,2,Battlewasp - Dart the Hunter,monster,,wind,Insect / Effect,Battles of Legend: Hero's Revenge,BLHR-EN032,Ultra Rare,1.07,0.33,2.14,0.66,0.02,0.06,0.0,0.0
+BLHR-EN036,3,Battlewasp - Azusa the Ghost Bow,monster,,wind,Insect / Synchro,Battles of Legend: Hero's Revenge,BLHR-EN036,Ultra Rare,1.08,0.33,3.24,0.99,0.0,0.37,0.0,0.0
+BLHR-EN039,1,Battlewasp - Ballista the Armageddon,monster,,wind,Insect / Synchro,Battles of Legend: Hero's Revenge,BLHR-EN039,Ultra Rare,1.01,0.33,1.01,0.33,-0.04,-0.01,0.0,0.0
+BLHR-EN042,1,Battlewasp - Nest,trap,Continuous,,,Battles of Legend: Hero's Revenge,BLHR-EN042,Ultra Rare,1.06,0.33,1.06,0.33,0.0,-0.01,0.0,0.0
+BLHR-EN063,1,Destiny HERO - Dangerous,monster,,dark,Warrior / Fusion,Battles of Legend: Hero's Revenge,BLHR-EN063,Ultra Rare,1.06,0.33,1.06,0.33,0.0,0.39,0.0,0.0
+BLHR-EN064,1,Elemental HERO Neos Knight,monster,,light,Warrior / Fusion,Battles of Legend: Hero's Revenge,BLHR-EN064,Secret Rare,1.09,0.48,1.09,0.48,0.02,0.0,0.0,0.0
+BLHR-EN006,1,Vision HERO Multiply Guy,monster,,dark,Warrior / Effect,Battles of Legend: Hero's Revenge,BLHR-EN006,Ultra Rare,1.06,0.33,1.06,0.33,-0.01,0.08,0.0,0.0
+BLHR-EN003,1,Gold Moon Coin,spell,Normal,,,Battles of Legend: Hero's Revenge,BLHR-EN003,Ultra Rare,1.04,0.33,1.04,0.33,-0.01,0.35,0.0,0.0
+BLHR-EN022,1,Lucky Loan,spell,Normal,,,Battles of Legend: Hero's Revenge,BLHR-EN022,Ultra Rare,1.01,0.33,1.01,0.33,0.26,0.26,0.0,0.0
+BLHR-EN014,1,Fortune Fairy Hikari,monster,,light,Spellcaster / Effect,Battles of Legend: Hero's Revenge,BLHR-EN014,Secret Rare,1.16,0.39,1.16,0.39,-0.05,-0.02,0.0,0.0
+BLHR-EN043,1,All-Eyes Phantom Dragon,monster,,light,Dragon / Pendulum,Battles of Legend: Hero's Revenge,BLHR-EN043,Secret Rare,1.15,0.49,1.15,0.49,-0.01,0.2,0.0,0.0
+BLHR-EN087,1,Interrupted Kaiju Slumber,spell,Normal,,,Battles of Legend: Hero's Revenge,BLHR-EN087,Secret Rare,3.65,1.79,3.65,1.79,0.01,0.62,0.0,0.0
+BLHR-EN089,1,Sky Striker Ace - Raye,monster,,dark,Warrior / Effect,Battles of Legend: Hero's Revenge,BLHR-EN089,Secret Rare,1.96,1.19,1.96,1.19,-0.07,-0.08,0.0,0.0
+BLHR-EN069,1,Predaplast,spell,Quick-Play,,,Battles of Legend: Hero's Revenge,BLHR-EN069,Ultra Rare,1.01,0.33,1.01,0.33,-0.02,0.31,0.0,0.0
+BLHR-EN018,2,Fortune Fairy Ann,monster,,dark,Spellcaster / Effect,Battles of Legend: Hero's Revenge,BLHR-EN018,Ultra Rare,1.07,0.33,2.14,0.66,0.06,0.02,0.0,0.0
+BLHR-EN062,2,Vision HERO Trinity,monster,,dark,Warrior / Fusion,Battles of Legend: Hero's Revenge,BLHR-EN062,Ultra Rare,1.06,0.33,2.12,0.66,0.0,0.0,0.0,0.0
+BLHR-EN061,1,Elemental HERO Stratos,monster,,wind,Warrior / Effect,Battles of Legend: Hero's Revenge,BLHR-EN061,Ultra Rare,2.37,1.29,2.37,1.29,0.05,0.05,0.0,0.0
+BLHR-EN001,1,Ipiria,monster,,earth,Reptile / Effect,Battles of Legend: Hero's Revenge,BLHR-EN001,Secret Rare,1.3,0.49,1.3,0.49,0.0,0.15,0.0,0.0
+BLHR-EN016,2,Fortune Fairy Hu,monster,,wind,Spellcaster / Effect,Battles of Legend: Hero's Revenge,BLHR-EN016,Ultra Rare,1.02,0.33,2.04,0.66,-0.04,-0.03,0.0,0.0
+BLHR-EN009,1,Vision HERO Gravito,monster,,dark,Warrior / Effect,Battles of Legend: Hero's Revenge,BLHR-EN009,Ultra Rare,1.05,0.33,1.05,0.33,-0.01,0.0,0.0,0.0
+BLHR-EN021,1,Miracle Stone,spell,Continuous,,,Battles of Legend: Hero's Revenge,BLHR-EN021,Ultra Rare,1.07,0.33,1.07,0.33,0.0,0.02,0.0,0.0
+BLHR-EN088,1,Summon Limit,trap,Continuous,,,Battles of Legend: Hero's Revenge,BLHR-EN088,Ultra Rare,4.74,2.25,4.74,2.25,-0.04,-0.01,0.0,0.0
+BLHR-EN038,1,Battlewasp - Hama the Conquering Bow,monster,,wind,Insect / Synchro,Battles of Legend: Hero's Revenge,BLHR-EN038,Secret Rare,1.14,0.33,1.14,0.33,-0.01,-0.01,0.0,0.0
+BLHR-EN067,1,Lunalight Crimson Fox,monster,,dark,Beast-Warrior / Effect,Battles of Legend: Hero's Revenge,BLHR-EN067,Ultra Rare,1.04,0.33,1.04,0.33,-0.01,-0.01,0.0,0.0
+BLHR-EN013,1,Apparition,trap,Normal,,,Battles of Legend: Hero's Revenge,BLHR-EN013,Ultra Rare,1.05,0.33,1.05,0.33,-0.01,0.02,0.0,0.0
+BLHR-EN011,1,Vision Release,spell,Normal,,,Battles of Legend: Hero's Revenge,BLHR-EN011,Ultra Rare,1.05,0.33,1.05,0.33,0.31,0.25,0.0,0.0
+BLHR-EN028,1,Number 60: Dugares the Timeless,monster,,fire,Fiend / Xyz,Battles of Legend: Hero's Revenge,BLHR-EN028,Ultra Rare,3.38,2.66,3.38,2.66,0.01,0.28,0.0,0.0
+BLHR-EN017,1,Fortune Fairy Swee,monster,,water,Spellcaster / Effect,Battles of Legend: Hero's Revenge,BLHR-EN017,Ultra Rare,1.07,0.33,1.07,0.33,-0.01,0.0,0.0,0.0
+BLHR-EN037,1,Battlewasp - Halberd the Charge,monster,,wind,Insect / Synchro,Battles of Legend: Hero's Revenge,BLHR-EN037,Ultra Rare,1.05,0.33,1.05,0.33,0.03,-0.01,0.0,0.0
+BLHR-EN073,1,Will of the Salamangreat,spell,Continuous,,,Battles of Legend: Hero's Revenge,BLHR-EN073,Ultra Rare,1.12,0.33,1.12,0.33,0.0,-0.01,0.0,0.0
+BLHR-EN025,1,T.G. Metal Skeleton,monster,,dark,Zombie / Effect,Battles of Legend: Hero's Revenge,BLHR-EN025,Ultra Rare,1.04,0.33,1.04,0.33,0.0,0.0,0.0,0.0
+BLHR-EN033,1,Battlewasp - Sting the Poison,monster,,wind,Insect / Tuner,Battles of Legend: Hero's Revenge,BLHR-EN033,Ultra Rare,1.1,0.33,1.1,0.33,0.04,0.04,0.0,0.0
+BLHR-EN015,1,Fortune Fairy En,monster,,fire,Spellcaster / Effect,Battles of Legend: Hero's Revenge,BLHR-EN015,Ultra Rare,1.08,0.33,1.08,0.33,-0.01,0.01,0.0,0.0
+BLHR-EN084,1,Subterror Guru,monster,,earth,Dragon / Flip,Battles of Legend: Hero's Revenge,BLHR-EN084,Ultra Rare,1.37,0.59,1.37,0.59,0.01,0.19,0.0,0.0
+BLHR-EN078,1,Artifact Scythe,monster,,light,Fairy / Effect,Battles of Legend: Hero's Revenge,BLHR-EN078,Ultra Rare,1.34,0.49,1.34,0.49,0.01,0.02,0.0,0.0
+BLHR-EN031,1,Battlewasp - Pin the Bullseye,monster,,wind,Insect / Effect,Battles of Legend: Hero's Revenge,BLHR-EN031,Ultra Rare,1.07,0.33,1.07,0.33,0.0,0.01,0.0,0.0
+NUMH-EN006,1,Gimmick Puppet Gear Changer,monster,,earth,Machine / Effect,Number Hunters,NUMH-EN006,Super Rare,1.26,0.72,1.26,0.72,-0.14,0.01,0.26,0.27
+NUMH-EN054,2,Puppet Ritual,spell,Normal,,,Number Hunters,NUMH-EN054,Super Rare,1.12,0.63,2.24,1.26,-0.18,-0.1,-0.18,-0.1
+DRLG-EN014,2,Soul Charge,spell,Normal,,,Dragons of Legend,DRLG-EN014,Super Rare,1.77,0.3,3.54,0.6,0.0,-0.08,-0.27,-0.55
+DRL2-EN041,1,Aquaactress Arowana,monster,,water,Aqua / Effect,Dragons of Legend 2,DRL2-EN041,Super Rare,1.07,0.39,1.07,0.39,0.01,0.01,0.0,0.16
+DRL2-EN040,1,Aquaactress Guppy,monster,,water,Aqua / Effect,Dragons of Legend 2,DRL2-EN040,Super Rare,1.06,0.25,1.06,0.25,0.0,0.01,0.02,0.05
+PGLD-EN026,1,Tri-Edge Levia,monster,,water,Sea Serpent / Xyz,Premium Gold,PGLD-EN026,Gold Secret Rare,1.32,0.35,1.32,0.35,0.01,0.0,-0.06,-0.1
+BP02-EN021,1,D.D. Warrior Lady,monster,,light,Warrior / Effect,Battle Pack 2: War of the Giants,BP02-EN021,Rare,1.15,0.39,1.15,0.39,0.2,0.24,0.23,0.25
+DPCT-EN003,1,Stardust Dragon/Assault Mode,monster,,wind,Dragon / Effect,Duelist Pack Collection Tin 2009,DPCT-EN003,Ultra Rare,2.83,0.99,2.83,0.99,-0.01,0.05,-0.27,0.77
+RYMP-EN104,1,Judgment Dragon,monster,,light,Dragon / Effect,Ra Yellow Mega Pack,RYMP-EN104,Common,1.21,0.3,1.21,0.3,-0.01,0.01,0.27,-0.01
+NECH-EN085,1,"Virgil, Rock Star of the Burning Abyss",monster,,light,Spellcaster / Synchro,The New Challengers,NECH-EN085,Secret Rare,2.6,0.49,2.6,0.49,0.03,0.07,0.35,-0.05
+NECH-ENS07,1,Rescue Hamster,monster,,earth,Beast / Pendulum,The New Challengers: Super Edition,NECH-ENS07,Super Rare,2.09,0.49,2.09,0.49,0.0,-0.02,0.61,0.5
+NECH-EN049,1,El Shaddoll Shekhinaga,monster,,earth,Machine / Fusion,The New Challengers,NECH-EN049,Secret Rare,11.9,9.75,11.9,9.75,-0.05,0.0,0.51,0.55
+NECH-ENS05,1,"Taotie, Shadow of the Yang Zing",monster,,dark,Wyrm / Effect,The New Challengers: Super Edition,NECH-ENS05,Super Rare,1.68,0.49,1.68,0.49,0.0,0.04,-0.07,0.02
+NECH-EN059,1,1st Movement Solo,spell,Normal,,,The New Challengers,NECH-EN059,Super Rare,2.56,0.49,2.56,0.49,0.01,0.11,0.07,0.19
+PGL2-EN060,1,Rank-Up-Magic Astral Force,spell,Normal,,,Premium Gold: Return of the Bling,PGL2-EN060,Gold Rare,1.36,0.49,1.36,0.49,0.01,0.28,-0.4,0.19
+PGL2-EN073,1,Blackwing - Gale the Whirlwind,monster,,dark,Winged Beast / Tuner,Premium Gold: Return of the Bling,PGL2-EN073,Gold Rare,2.12,0.69,2.12,0.69,0.04,0.17,0.44,0.4
+PGL2-EN006,1,Blackwing - Kris the Crack of Dawn,monster,,dark,Winged Beast / Effect,Premium Gold: Return of the Bling,PGL2-EN006,Gold Secret Rare,6.24,4.5,6.24,4.5,0.02,-0.05,0.19,-0.33
+PGL2-EN007,1,Blackwing - Pinaki the Waxing Moon,monster,,dark,Winged Beast / Tuner,Premium Gold: Return of the Bling,PGL2-EN007,Gold Secret Rare,1.85,0.39,1.85,0.39,-0.02,-0.07,0.02,-0.35
+PGL2-EN012,1,Blackwing Tamer - Obsidian Hawk Joe,monster,,dark,Warrior / Synchro,Premium Gold: Return of the Bling,PGL2-EN012,Gold Secret Rare,2.13,0.79,2.13,0.79,-0.02,0.0,-0.0,-0.27
+PGL2-EN078,1,Five-Headed Dragon,monster,,dark,Dragon / Fusion,Premium Gold: Return of the Bling,PGL2-EN078,Gold Rare,2.41,0.69,2.41,0.69,0.0,0.02,0.02,-0.04
+PGL2-EN026,1,Exodia the Forbidden One,monster,,dark,Spellcaster / Effect,Premium Gold: Return of the Bling,PGL2-EN026,Gold Rare,6.63,4.92,6.63,4.92,-0.01,-0.31,0.06,0.08
+PGL3-EN091,1,Remove Brainwashing,trap,Continuous,,,Premium Gold: Infinite Gold,PGL3-EN091,Gold Rare,1.11,0.39,1.11,0.39,0.0,-0.01,0.02,-0.01
+PGL3-EN024,1,Kozmo Farmgirl,monster,,light,Psychic / Effect,Premium Gold: Infinite Gold,PGL3-EN024,Gold Secret Rare,2.28,0.49,2.28,0.49,-0.22,-0.13,-0.14,0.1
+PGL3-EN070,1,Lightning Chidori,monster,,wind,Thunder / Xyz,Premium Gold: Infinite Gold,PGL3-EN070,Gold Rare,1.85,0.49,1.85,0.49,-0.01,0.05,0.22,0.27
+PGL3-EN014,1,Shining Hope Road,spell,Normal,,,Premium Gold: Infinite Gold,PGL3-EN014,Gold Secret Rare,1.09,0.25,1.09,0.25,-0.03,-0.01,0.17,0.14
+PGL3-EN099,1,Storming Mirror Force,trap,Normal,,,Premium Gold: Infinite Gold,PGL3-EN099,Gold Rare,4.89,3.08,4.89,3.08,0.01,0.04,0.15,0.06
+PGL3-EN062,1,"Ignister Prominence, the Blasting Dracoslayer",monster,,fire,Dragon / Synchro,Premium Gold: Infinite Gold,PGL3-EN062,Gold Rare,2.06,0.49,2.06,0.49,0.02,0.15,0.13,0.26
+PGL3-EN002,1,Junk Changer,monster,,earth,Warrior / Tuner,Premium Gold: Infinite Gold,PGL3-EN002,Gold Secret Rare,1.11,0.3,1.11,0.3,0.0,0.02,-0.14,0.04
+PGL3-EN027,1,Kozmo Forerunner,monster,,light,Machine / Effect,Premium Gold: Infinite Gold,PGL3-EN027,Gold Secret Rare,1.42,0.3,1.42,0.3,0.01,0.01,-0.07,0.04
+PGL3-EN072,1,Evilswarm Ouroboros,monster,,dark,Dragon / Xyz,Premium Gold: Infinite Gold,PGL3-EN072,Gold Rare,1.45,0.39,1.45,0.39,-0.03,-0.01,0.19,-0.22
+PGL3-EN035,1,Black Horn of Heaven,trap,Counter,,,Premium Gold: Infinite Gold,PGL3-EN035,Gold Secret Rare,1.41,0.39,1.41,0.39,0.01,0.01,0.04,-0.05
+BLHR-EN053,4,Gimmick Puppet Chimera Doll,monster,,dark,Machine / Link,Battles of Legend: Hero's Revenge,BLHR-EN053,Ultra Rare,1.06,0.33,4.24,1.32,0.0,0.0,0.0,0.0
+PGLD-EN019,2,Number C15: Gimmick Puppet Giant Hunter,monster,,dark,Machine / Xyz,Premium Gold,PGLD-EN019,Gold Secret Rare,3.8,1.39,7.6,2.78,-0.03,-0.33,1.33,1.36
+PGLD-EN020,3,Number C40: Gimmick Puppet of Dark Strings,monster,,dark,Machine / Xyz,Premium Gold,PGLD-EN020,Gold Secret Rare,8.44,5.58,25.32,16.74,-0.09,1.36,2.72,2.75
+PGLD-EN022,1,Number C9: Chaos Dyson Sphere,monster,,light,Machine / Xyz,Premium Gold,PGLD-EN022,Gold Secret Rare,1.66,0.99,1.66,0.99,-0.01,-0.21,0.15,-0.67
+PGLD-EN021,1,Number C88: Gimmick Puppet Disaster Leo,monster,,dark,Machine / Xyz,Premium Gold,PGLD-EN021,Gold Secret Rare,7.26,3.69,7.26,3.69,0.53,0.99,3.51,0.11
+PGLD-EN046,1,Solar Recharge,spell,Normal,,,Premium Gold,PGLD-EN046,Gold Rare,1.3,0.49,1.3,0.49,-0.11,-0.07,0.02,-0.09
+CT10-EN013,1,Number 88: Gimmick Puppet of Leo,monster,,dark,Machine / Xyz,2013 Collectible Tins Wave 2,CT10-EN013,Super Rare,5.66,0.59,5.66,0.59,0.01,3.68,0.07,2.54
+CT10-EN011,3,Number 40: Gimmick Puppet of Strings,monster,,dark,Machine / Xyz,2013 Collectible Tins Wave 1,CT10-EN011,Super Rare,1.97,1.0,5.91,3.0,0.03,0.17,-0.67,-0.19
+NUMH-EN027,2,Number 15: Gimmick Puppet Giant Grinder,monster,,dark,Machine / Xyz,Number Hunters,NUMH-EN027,Secret Rare,8.7,7.95,17.4,15.9,-0.12,1.23,1.67,1.1
+NECH-EN057,3,Draw Muscle,spell,Quick-Play,,,The New Challengers,NECH-EN057,Rare,1.04,0.25,3.12,0.75,-0.01,0.0,0.33,0.07
+SDBE-EN024,2,Trade-In,spell,Normal,,,Saga of Blue-Eyes White Dragon Structure Deck,SDBE-EN024,Common,2.73,1.33,5.46,2.66,0.03,0.06,0.06,0.37
+SDLI-EN029,1,Foolish Burial,spell,Normal,,,Realm of Light Structure Deck,SDLI-EN029,Common,1.45,0.59,1.45,0.59,-0.01,0.23,0.07,-0.13
+PGLD-EN027,2,Rank-Up-Magic Argent Chaos Force,spell,Normal,,,Premium Gold,PGLD-EN027,Gold Secret Rare,2.96,0.49,5.92,0.98,-0.01,0.0,0.0,-0.17
+NUMH-EN005,3,Gimmick Puppet Egg Head,monster,,earth,Machine / Effect,Number Hunters,NUMH-EN005,Super Rare,3.16,1.54,9.48,4.62,0.22,0.75,0.86,1.45
+SDCR-EN023,1,Limiter Removal,spell,Quick-Play,,,Cyber Dragon Revolution Structure Deck,SDCR-EN023,Common,1.23,0.39,1.23,0.39,0.14,0.32,0.15,0.11
+PGLD-EN069,1,Bottomless Trap Hole,trap,Normal,,,Premium Gold,PGLD-EN069,Gold Rare,1.87,0.59,1.87,0.59,0.0,-0.08,0.01,-0.19
+PGLD-EN012,3,Gimmick Puppet Shadow Feeler,monster,,dark,Machine / Effect,Premium Gold,PGLD-EN012,Gold Secret Rare,1.52,0.49,4.56,1.47,0.0,-0.14,-0.16,0.17
+PGLD-EN002,3,Gimmick Puppet Magnet Doll,monster,,dark,Machine / Effect,Premium Gold,PGLD-EN002,Gold Secret Rare,1.95,0.59,5.85,1.77,-0.19,-0.34,-0.13,-0.13
+PGLD-EN001,3,Gimmick Puppet Dreary Doll,monster,,dark,Machine / Effect,Premium Gold,PGLD-EN001,Gold Secret Rare,3.21,0.99,9.63,2.97,0.06,0.54,0.48,0.26
+NUMH-EN006,2,Gimmick Puppet Gear Changer,monster,,earth,Machine / Effect,Number Hunters,NUMH-EN006,Super Rare,1.26,0.72,2.52,1.44,-0.14,0.01,0.26,0.27
+PGLD-EN007,3,Junk Puppet,spell,Normal,,,Premium Gold,PGLD-EN007,Gold Secret Rare,1.67,0.49,5.01,1.47,-0.02,-0.24,-0.17,-0.17
+PGLD-EN011,2,Gimmick Puppet Humpty Dumpty,monster,,dark,Machine / Effect,Premium Gold,PGLD-EN011,Gold Secret Rare,2.14,0.49,4.28,0.98,-0.55,0.49,0.56,0.66
+JOTL-EN059,2,Rank-Up-Magic Numeron Force,spell,Normal,,,Judgment of the Light,JOTL-EN059,Ultra Rare,2.65,0.99,5.3,1.98,0.29,0.36,0.82,1.21
+LCYW-EN145,1,Machine Duplication,spell,Normal,,,Legendary Collection 3: Yugi's World Mega Pack,LCYW-EN145,Super Rare,5.08,3.19,5.08,3.19,-0.03,-0.02,0.16,0.17
+SKE-037,1,Megamorph,spell,Equip,,,Starter Deck: Kaiba Evolution,SKE-037,Common,1.04,0.25,1.04,0.25,-0.01,0.0,0.2,-0.05
+SDBE-EN038,1,Compulsory Evacuation Device,trap,Normal,,,Saga of Blue-Eyes White Dragon Structure Deck,SDBE-EN038,Common,1.13,0.3,1.13,0.3,0.03,0.27,0.06,0.17
+NUMH-EN007,1,Gimmick Puppet Twilight Joker,monster,,dark,Machine / Effect,Number Hunters,NUMH-EN007,Super Rare,1.13,0.49,1.13,0.49,0.0,0.05,0.04,0.05
+PRIO-EN095,1,Gimmick Puppet Des Troy,monster,,dark,Machine / Effect,Primal Origin,PRIO-EN095,Common,1.08,0.25,1.08,0.25,-0.02,0.04,0.17,0.17
+SDLI-EN035,1,Breakthrough Skill,trap,Normal,,,Realm of Light Structure Deck,SDLI-EN035,Common,1.45,0.35,1.45,0.35,-0.06,-0.03,0.11,0.2
+YS14-ENA12,1,Mirror Force,trap,Normal,,,Space-Time Showdown Power-Up Pack,YS14-ENA12,Common,1.34,0.79,1.34,0.79,0.0,-0.43,0.0,0.02
+YS14-ENA10,1,Dark Hole,spell,Normal,,,Space-Time Showdown Power-Up Pack,YS14-ENA10,Ultra Rare,1.57,0.65,1.57,0.65,-0.01,-0.04,0.05,-0.09
+NUMH-EN008,1,Gimmick Puppet Scissor Arms,monster,,dark,Machine / Effect,Number Hunters,NUMH-EN008,Super Rare,1.5,0.69,1.5,0.69,0.07,0.06,0.36,0.6
+PGLD-EN037,1,Gagaga Magician,monster,,dark,Spellcaster / Effect,Premium Gold,PGLD-EN037,Gold Rare,1.42,0.39,1.42,0.39,0.02,0.45,0.1,-0.02
+PGLD-EN001,1,Gimmick Puppet Dreary Doll,monster,,dark,Machine / Effect,Premium Gold,PGLD-EN001,Gold Secret Rare,3.21,0.99,3.21,0.99,0.06,0.54,0.48,0.26
+PGLD-EN002,2,Gimmick Puppet Magnet Doll,monster,,dark,Machine / Effect,Premium Gold,PGLD-EN002,Gold Secret Rare,1.95,0.59,3.9,1.18,-0.19,-0.34,-0.13,-0.13
+PGLD-EN011,1,Gimmick Puppet Humpty Dumpty,monster,,dark,Machine / Effect,Premium Gold,PGLD-EN011,Gold Secret Rare,2.14,0.49,2.14,0.49,-0.55,0.49,0.56,0.66
+PGLD-EN031,1,The Winged Dragon of Ra,monster,,divine,Divine-Beast / Effect,Premium Gold,PGLD-EN031,Gold Secret Rare,17.49,9.74,17.49,9.74,0.05,0.09,-0.28,-0.08
+YS15-ENF00,1,Odd-Eyes Saber Dragon,monster,,light,Dragon / Effect,Saber Force Starter Deck,YS15-ENF00,Secret Rare,3.28,1.87,3.28,1.87,-0.01,-0.0,-0.03,-0.43
+DRL2-EN001,1,Timaeus the Knight of Destiny,monster,,light,Warrior / Fusion,Dragons of Legend 2,DRL2-EN001,Secret Rare,1.28,0.39,1.28,0.39,0.07,0.02,-0.02,0.15
+DRL2-EN038,1,Reverse Reuse,trap,Normal,,,Dragons of Legend 2,DRL2-EN038,Super Rare,1.02,0.39,1.02,0.39,-0.01,0.01,0.1,0.11
+DRL2-EN025,1,Shadow Toon,spell,Normal,,,Dragons of Legend 2,DRL2-EN025,Super Rare,2.17,1.19,2.17,1.19,-0.03,-0.06,0.09,0.14
+DRL2-EN033,1,Prediction Princess Arrowsylph,monster,,wind,Fairy / Flip,Dragons of Legend 2,DRL2-EN033,Super Rare,1.07,0.49,1.07,0.49,0.01,0.02,0.08,0.07
+DRL2-EN020,1,Red-Eyes Spirit,trap,Normal,,,Dragons of Legend 2,DRL2-EN020,Super Rare,2.56,0.89,2.56,0.89,0.22,0.23,0.25,-0.06
+NUMH-EN007,1,Gimmick Puppet Twilight Joker,monster,,dark,Machine / Effect,Number Hunters,NUMH-EN007,Super Rare,1.13,0.49,1.13,0.49,0.0,0.05,0.04,0.05
+NUMH-EN024,1,Rocket Arrow Express,monster,,earth,Machine / Effect,Number Hunters,NUMH-EN024,Super Rare,1.06,0.3,1.06,0.3,0.01,0.04,0.15,0.01
+NUMH-EN006,1,Gimmick Puppet Gear Changer,monster,,earth,Machine / Effect,Number Hunters,NUMH-EN006,Super Rare,1.26,0.72,1.26,0.72,-0.14,0.01,0.26,0.27
+NUMH-EN005,1,Gimmick Puppet Egg Head,monster,,earth,Machine / Effect,Number Hunters,NUMH-EN005,Super Rare,3.16,1.54,3.16,1.54,0.22,0.75,0.86,1.45
+PGL3-EN084,1,Shared Ride,spell,Quick-Play,,,Premium Gold: Infinite Gold,PGL3-EN084,Gold Rare,2.16,0.49,2.16,0.49,-0.03,-0.11,-0.38,-0.61
+PGL3-EN047,1,"Alich, Malebranche of the Burning Abyss",monster,,dark,Fiend / Effect,Premium Gold: Infinite Gold,PGL3-EN047,Gold Rare,1.6,0.39,1.6,0.39,0.03,0.03,-0.16,-0.04
+PGL2-EN004,1,Rose Paladin,monster,,earth,Warrior / Effect,Premium Gold: Return of the Bling,PGL2-EN004,Gold Secret Rare,1.41,0.49,1.41,0.49,0.03,0.11,-0.26,-0.06
+PGL2-EN003,1,Rose Lover,monster,,earth,Plant / Effect,Premium Gold: Return of the Bling,PGL2-EN003,Gold Secret Rare,3.4,2.39,3.4,2.39,-0.03,0.03,0.15,0.25
+PGL2-EN017,1,Number 14: Greedy Sarameya,monster,,dark,Beast / Xyz,Premium Gold: Return of the Bling,PGL2-EN017,Gold Secret Rare,1.41,0.49,1.41,0.49,0.0,0.01,-0.31,-0.25
+PGL2-EN032,1,Mystical Beast of Serket,monster,,earth,Fairy / Effect,Premium Gold: Return of the Bling,PGL2-EN032,Gold Rare,1.14,0.49,1.14,0.49,-0.09,0.03,0.1,0.12
+PGL2-EN061,1,Sylvan Charity,spell,Normal,,,Premium Gold: Return of the Bling,PGL2-EN061,Gold Rare,1.16,0.38,1.16,0.38,0.11,0.11,0.16,0.12
+PGL2-EN010,1,"Isolde, Belle of the Underworld",monster,,dark,Zombie / Effect,Premium Gold: Return of the Bling,PGL2-EN010,Gold Secret Rare,1.32,0.49,1.32,0.49,0.03,0.04,-0.02,-0.13
+PGL2-EN009,1,"Tristan, Knight of the Underworld",monster,,dark,Zombie / Effect,Premium Gold: Return of the Bling,PGL2-EN009,Gold Secret Rare,1.39,0.39,1.39,0.39,0.01,-0.03,-0.12,-0.06
+PGL2-EN025,1,Left Arm of the Forbidden One,monster,,dark,Spellcaster / Normal,Premium Gold: Return of the Bling,PGL2-EN025,Gold Rare,5.36,2.49,5.36,2.49,0.22,0.04,0.32,0.54
+PGL2-EN011,1,Masked HERO Anki,monster,,dark,Warrior / Fusion,Premium Gold: Return of the Bling,PGL2-EN011,Gold Secret Rare,3.44,0.49,3.44,0.49,0.01,-0.04,0.85,0.24
+PGL2-EN061,1,Sylvan Charity,spell,Normal,,,Premium Gold: Return of the Bling,PGL2-EN061,Gold Rare,1.16,0.38,1.16,0.38,0.11,0.11,0.16,0.12
+PGL2-EN077,1,Doomcaliber Knight,monster,,dark,Fiend / Effect,Premium Gold: Return of the Bling,PGL2-EN077,Gold Rare,1.24,0.49,1.24,0.49,-0.76,-0.13,0.15,0.05
+PGL2-EN008,1,Peropero Cerperus,monster,,earth,Beast / Effect,Premium Gold: Return of the Bling,PGL2-EN008,Gold Secret Rare,1.17,0.39,1.17,0.39,0.0,0.0,0.19,-0.18
+PGL2-EN031,1,Debris Dragon,monster,,wind,Dragon / Tuner,Premium Gold: Return of the Bling,PGL2-EN031,Gold Rare,1.56,0.39,1.56,0.39,0.02,-0.02,-0.09,-0.06
+PGL2-EN030,1,Dandylion,monster,,earth,Plant / Effect,Premium Gold: Return of the Bling,PGL2-EN030,Gold Rare,1.18,0.34,1.18,0.34,-0.02,-0.02,0.22,0.09
+PGL2-EN034,1,"Metaion, the Timelord",monster,,fire,Fairy / Effect,Premium Gold: Return of the Bling,PGL2-EN034,Gold Rare,1.77,0.3,1.77,0.3,-0.01,-0.02,-0.06,-0.25
+SECE-EN044,1,Nekroz of Gungnir,monster,,water,Spellcaster / Ritual,Secrets of Eternity,SECE-EN044,Secret Rare,6.68,4.78,6.68,4.78,-0.02,0.05,-0.31,1.68
+SECE-EN036,1,Thunderclap Skywolf,monster,,light,Thunder / Effect,Secrets of Eternity,SECE-EN036,Super Rare,1.81,0.39,1.81,0.39,0.01,0.21,-0.1,-0.41
+SECE-EN078,1,Soul Transition,trap,Normal,,,Secrets of Eternity,SECE-EN078,Secret Rare,2.96,1.75,2.96,1.75,0.0,0.02,0.06,-0.15
+SECE-EN046,1,Gem-Knight Lady Lapis Lazuli,monster,,earth,Rock / Fusion,Secrets of Eternity,SECE-EN046,Rare,1.53,0.49,1.53,0.49,0.0,0.01,-0.25,-0.46
+SECE-EN018,4,Infernoid Attondel,monster,,fire,Fiend / Effect,Secrets of Eternity,SECE-EN018,Common,1.05,0.35,4.2,1.4,0.0,0.03,0.06,0.17
+SECE-EN017,4,Infernoid Seitsemas,monster,,fire,Fiend / Effect,Secrets of Eternity,SECE-EN017,Common,1.05,0.35,4.2,1.4,-0.02,0.0,0.01,0.17
+SECE-EN016,2,Infernoid Piaty,monster,,fire,Fiend / Effect,Secrets of Eternity,SECE-EN016,Common,1.05,0.3,2.1,0.6,-0.03,0.0,0.18,0.17
+SECE-ENS05,1,Satellarknight Rigel,monster,,light,Warrior / Effect,Secrets of Eternity: Super Edition,SECE-ENS05,Super Rare,2.05,0.49,2.05,0.49,0.01,0.0,-0.24,0.42
+SECE-ENS10,1,El Shaddoll Wendigo,monster,,wind,Psychic / Fusion,Secrets of Eternity: Super Edition,SECE-ENS10,Super Rare,3.01,0.35,3.01,0.35,0.15,0.61,0.67,0.78
+SECE-EN072,1,Void Launch,trap,Continuous,,,Secrets of Eternity,SECE-EN072,Super Rare,1.13,0.39,1.13,0.39,-0.01,0.0,0.08,0.08
+SECE-EN038,1,Dragon Dowser,monster,,earth,Wyrm / Effect,Secrets of Eternity,SECE-EN038,Rare,0.97,0.23,0.97,0.23,-0.05,0.0,0.2,-0.08
+SECE-ENS02,1,Superheavy Samurai Trumpeter,monster,,earth,Machine / Tuner,Secrets of Eternity: Super Edition,SECE-ENS02,Super Rare,7.56,0.59,7.56,0.59,0.0,-0.09,1.62,1.73
+SECE-EN046,1,Gem-Knight Lady Lapis Lazuli,monster,,earth,Rock / Fusion,Secrets of Eternity,SECE-EN046,Rare,1.53,0.49,1.53,0.49,0.0,0.01,-0.25,-0.46
+SECE-EN032,1,Skilled Blue Magician,monster,,light,Spellcaster / Effect,Secrets of Eternity,SECE-EN032,Super Rare,1.45,0.49,1.45,0.49,-0.12,0.03,-0.01,0.11
+SECE-ENS03,1,Infernoid Antra,monster,,fire,Fiend / Effect,Secrets of Eternity: Super Edition,SECE-ENS03,Super Rare,2.15,0.35,2.15,0.35,0.0,-0.12,-0.24,-0.38
+SECE-ENS14,1,Good & Evil in the Burning Abyss,spell,Ritual,,,Secrets of Eternity: Super Edition,SECE-ENS14,Super Rare,1.53,0.35,1.53,0.35,-0.03,-0.13,-0.7,-0.79
+SECE-EN033,1,Koa'ki Meiru Overload,monster,,earth,Rock / Effect,Secrets of Eternity,SECE-EN033,Rare,1.03,0.39,1.03,0.39,-0.12,-0.02,0.01,-0.4
+SECE-EN028,1,Dance Princess of the Nekroz,monster,,water,Spellcaster / Effect,Secrets of Eternity,SECE-EN028,Rare,1.58,0.39,1.58,0.39,-0.21,-0.13,-0.33,-0.06
+SECE-EN042,2,Legendary Maju Garzett,monster,,dark,Fiend / Effect,Secrets of Eternity,SECE-EN042,Short Print,1.06,0.3,2.12,0.6,-0.02,0.0,0.23,-0.05
+SECE-ENS11,1,Superheavy Samurai Warlord Susanowo,monster,,earth,Machine / Synchro,Secrets of Eternity: Super Edition,SECE-ENS11,Super Rare,3.0,0.99,3.0,0.99,0.0,0.03,-0.01,-0.29
+SECE-EN049,1,Metaphys Horus,monster,,light,Wyrm / Synchro,Secrets of Eternity,SECE-EN049,Ultra Rare,2.29,0.99,2.29,0.99,-0.11,-0.04,-0.42,-0.43
+SECE-EN057,2,Void Seer,spell,Quick-Play,,,Secrets of Eternity,SECE-EN057,Super Rare,1.22,0.3,2.44,0.6,-0.01,0.01,0.3,0.23
+SECE-EN078,1,Soul Transition,trap,Normal,,,Secrets of Eternity,SECE-EN078,Secret Rare,2.96,1.75,2.96,1.75,0.0,0.02,0.06,-0.15
+NECH-EN052,1,Herald of the Arc Light,monster,,light,Fairy / Synchro,The New Challengers,NECH-EN052,Super Rare,2.17,0.89,2.17,0.89,-0.01,-0.24,-0.85,-0.62
+DP08-EN012,1,Junk Warrior,monster,,dark,Warrior / Synchro,Duelist Pack: Yusei,DP08-EN012,Rare,0.91,0.61,0.91,0.61,0.0,0.0,-0.01,0.01
+LVAL-EN051,1,Gorgonic Guardian,monster,,dark,Rock / Xyz,Legacy of the Valiant,LVAL-EN051,Common,1.12,0.3,1.12,0.3,0.05,0.06,0.19,0.19
+SP13-EN021,1,Number 39: Utopia,monster,,light,Warrior / Xyz,Star Pack 2013,SP13-EN021,Common,2.91,0.35,2.91,0.35,-0.03,0.24,0.08,0.01
+5DS2-EN041,1,Road Warrior,monster,,light,Warrior / Synchro,Starter Deck: Yu-Gi-Oh! 5D's 2009,5DS2-EN041,Ultra Rare,1.87,0.59,1.87,0.59,-0.02,0.03,0.2,0.03
+YS14-ENA01,2,Odd-Eyes Dragon,monster,,dark,Dragon / Effect,Space-Time Showdown Power-Up Pack,YS14-ENA01,Ultra Rare,1.08,0.4,2.16,0.8,-0.33,-0.35,-0.28,-0.01
+YSKR-EN028,1,Dark Hole,spell,Normal,,,Starter Deck: Kaiba Reloaded,YSKR-EN028,Common,1.35,0.35,1.35,0.35,0.02,0.04,0.5,0.06
+DRLG-EN033,1,Assault Dog,monster,,earth,Beast / Effect,Dragons of Legend,DRLG-EN033,Super Rare,1.08,0.39,1.08,0.39,0.0,0.01,-0.02,0.14
+DUEA-EN094,1,Number 58: Burner Visor,monster,,fire,Pyro / Xyz,Duelist Alliance,DUEA-EN094,Common,1.05,0.25,1.05,0.25,-0.01,-0.01,0.21,-0.28
+DRLG-EN026,1,Shooting Star,trap,Normal,,,Dragons of Legend,DRLG-EN026,Secret Rare,1.41,0.39,1.41,0.39,-0.11,0.05,-0.16,-0.07
+NECH-EN096,1,CXyz Barian Hope,monster,,light,Warrior / Xyz,The New Challengers,NECH-EN096,Super Rare,1.12,0.49,1.12,0.49,0.0,0.1,0.07,0.08
+LTGY-EN052,1,Number C105: Battlin' Boxer Comet Cestus,monster,,fire,Warrior / Xyz,Lord of the Tachyon Galaxy,LTGY-EN052,Ultra Rare,3.31,0.49,3.31,0.49,0.13,0.22,1.93,1.25
+5DS2-EN043,1,X-Saber Urbellum,monster,,earth,Warrior / Synchro,Starter Deck: Yu-Gi-Oh! 5D's 2009,5DS2-EN043,Super Rare,1.08,0.3,1.08,0.3,0.01,0.02,0.2,0.04
+DRLG-EN041,1,Number C73: Abyss Supra Splash,monster,,water,Warrior / Xyz,Dragons of Legend,DRLG-EN041,Super Rare,1.18,0.49,1.18,0.49,0.04,0.03,-0.19,0.23
+ZTIN-ENV01,1,Gagaga Magician,monster,,dark,Spellcaster / Effect,Zexal Collection Tin,ZTIN-ENV01,Ultimate Rare,1.51,0.66,1.51,0.66,-0.04,-0.01,0.22,0.22
+SD2-EN025,1,Torrential Tribute,trap,Normal,,,Structure Deck: Zombie Madness,SD2-EN025,Common,1.45,0.35,1.45,0.35,-0.01,-0.03,-0.12,-0.08
+BP03-EN094,1,Vampire Koala,monster,,earth,Beast / Effect,Battle Pack 3: Monster League,BP03-EN094,Rare,1.07,0.35,1.07,0.35,-0.01,0.08,-0.04,0.29
+LCYW-EN047,1,Magician of Black Chaos,monster,,dark,Spellcaster / Ritual,Legendary Collection 3: Yugi's World Mega Pack,LCYW-EN047,Common,3.28,2.76,3.28,2.76,-0.03,-0.11,-0.13,-0.13
+SDP-001,1,Relinquished,monster,,dark,Spellcaster / Ritual,Starter Deck: Pegasus,SDP-001,Ultra Rare,1.54,0.39,1.54,0.39,0.03,-0.58,-0.65,-0.54
+DRLG-EN009,1,Guardian Eatos,monster,,wind,Fairy / Effect,Dragons of Legend,DRLG-EN009,Super Rare,1.1,0.39,1.1,0.39,0.02,0.0,0.21,0.1
+LCYW-EN303,1,Left Leg of the Forbidden One,monster,,dark,Spellcaster / Normal,Legendary Collection 3: Yugi's World Mega Pack,LCYW-EN303,Secret Rare,8.33,5.5,8.33,5.5,0.05,-0.01,-0.02,0.15
+BP03-EN237,1,Quantum Cat,trap,Continuous,,,Battle Pack 3: Monster League,BP03-EN237,Common,1.11,0.35,1.11,0.35,0.0,0.02,-0.01,-0.05
+LCJW-EN143,1,Sabersaurus,monster,,earth,Dinosaur,Legendary Collection 4: Joey's World Mega Pack,LCJW-EN143,Secret Rare,1.49,0.79,1.49,0.79,-0.01,0.02,-0.07,-0.04
+EEN-EN022,1,"Brron, Mad King of Dark World",monster,,dark,Fiend / Effect,Elemental Energy,EEN-EN022,Rare,1.07,0.3,1.07,0.3,-0.01,-0.02,0.03,-0.05
+DOCS-EN031,1,Igknight Veteran,monster,,fire,Warrior / Pendulum,Dimension of Chaos,DOCS-EN031,Common,1.03,0.35,1.03,0.35,-0.02,0.02,0.12,0.16
+DOCS-EN091,1,D/D Savant Galilei,monster,,dark,Fiend / Pendulum,Dimension of Chaos,DOCS-EN091,Common,1.01,0.35,1.01,0.35,-0.05,-0.02,0.15,0.07
+YS14-EN009,1,Stargazer Magician,monster,,dark,Spellcaster / Pendulum,Super Starter: Space-Time Showdown,YS14-EN009,Super Rare,1.17,0.49,1.17,0.49,-0.48,-0.48,-0.5,-0.31
+NECH-EN002,1,Performapal Trampolynx,monster,,earth,Beast / Pendulum,The New Challengers,NECH-EN002,Rare,1.03,0.35,1.03,0.35,-0.01,0.0,0.29,-0.37
+YS14-EN010,1,Timegazer Magician,monster,,dark,Spellcaster / Pendulum,Super Starter: Space-Time Showdown,YS14-EN010,Super Rare,1.64,0.99,1.64,0.99,0.0,-0.24,-0.2,-0.1
+DB1-EN135,1,Right Leg of the Forbidden One,monster,,dark,Spellcaster / Normal,Dark Beginning 1,DB1-EN135,Common,2.72,1.69,2.72,1.69,-0.13,0.02,-0.39,-0.1
+DP05-EN015,1,Guard Penalty,spell,Quick-Play,,,Duelist Pack: Aster Phoenix,DP05-EN015,Common,1.02,0.3,1.02,0.3,-0.01,0.17,0.2,0.19
+DRL2-EN042,1,Aquarium Stage,spell,Continuous,,,Dragons of Legend 2,DRL2-EN042,Super Rare,1.13,0.56,1.13,0.56,0.0,0.01,-0.01,0.06
+DRL2-EN031,1,Prediction Princess Petalelf,monster,,earth,Fairy / Flip,Dragons of Legend 2,DRL2-EN031,Super Rare,1.05,0.39,1.05,0.39,0.0,0.01,0.13,0.08
+NECH-EN005,1,Serenade the Melodious Diva,monster,,light,Fairy / Effect,The New Challengers,NECH-EN005,Common,0.97,0.33,0.97,0.33,-0.01,0.01,-0.35,0.21
+NECH-EN097,1,Shogi Lance,monster,,earth,Beast-Warrior / Effect,The New Challengers,NECH-EN097,Common,0.97,0.25,0.97,0.25,-0.01,-0.03,0.29,0.21
+NECH-EN003,1,Block Spider,monster,,earth,Insect / Effect,The New Challengers,NECH-EN003,Common,1.04,0.33,1.04,0.33,0.01,-0.02,0.41,0.2
+NECH-EN088,1,U.A. Goalkeeper,monster,,earth,Warrior / Effect,The New Challengers,NECH-EN088,Rare,1.19,0.33,1.19,0.33,-0.01,0.04,-0.24,0.34
+NECH-EN004,2,Canon the Melodious Diva,monster,,light,Fairy / Effect,The New Challengers,NECH-EN004,Common,1.03,0.33,2.06,0.66,-0.05,-0.01,0.43,0.23
+NECH-EN038,1,"Valerifawn, Mystical Beast of the Forest",monster,,earth,Beast / Tuner,The New Challengers,NECH-EN038,Common,1.13,0.35,1.13,0.35,0.0,0.23,0.04,0.07
+NECH-EN098,1,Guiding Light,monster,,light,Fairy / Effect,The New Challengers,NECH-EN098,Common,0.94,0.25,0.94,0.25,-0.06,-0.05,0.29,0.16
+NECH-EN091,1,SZW - Fenrir Sword,monster,,light,Beast / Effect,The New Challengers,NECH-EN091,Common,0.98,0.25,0.98,0.25,-0.04,-0.02,0.31,0.18
+NECH-EN072,1,The Phantom Knights of Shadow Veil,trap,Normal,,,The New Challengers,NECH-EN072,Common,1.02,0.25,1.02,0.25,-0.02,0.0,0.32,0.26
+NECH-EN065,1,Celestia,spell,Field,,,The New Challengers,NECH-EN065,Common,0.94,0.33,0.94,0.33,0.0,-0.05,-0.12,-0.17
+NECH-EN027,1,Satellarknight Sirius,monster,,light,Warrior / Effect,The New Challengers,NECH-EN027,Rare,1.02,0.3,1.02,0.3,-0.01,-0.01,-0.35,-0.39
+NECH-EN063,1,Hexatellarknight,spell,Field,,,The New Challengers,NECH-EN063,Common,1.0,0.25,1.0,0.25,-0.02,0.03,0.0,0.22
+NECH-EN071,1,Punch-in-the-Box,trap,Normal,,,The New Challengers,NECH-EN071,Common,1.03,0.33,1.03,0.33,0.01,-0.08,-0.08,-0.1
+NECH-EN089,1,U.A. Powered Jersey,spell,Equip,,,The New Challengers,NECH-EN089,Common,1.04,0.33,1.04,0.33,0.01,0.05,0.42,0.25
+NECH-EN028,1,Satellarknight Procyon,monster,,light,Warrior / Effect,The New Challengers,NECH-EN028,Common,0.93,0.25,0.93,0.25,-0.08,-0.01,0.27,0.19
+NECH-EN060,1,Toy Vendor,spell,Continuous,,,The New Challengers,NECH-EN060,Common,1.08,0.35,1.08,0.35,0.0,-0.04,-0.32,-0.38
+NECH-EN065,1,Celestia,spell,Field,,,The New Challengers,NECH-EN065,Common,0.94,0.33,0.94,0.33,0.0,-0.05,-0.12,-0.17
+NECH-EN029,2,Satellarknight Betelgeuse,monster,,light,Warrior / Effect,The New Challengers,NECH-EN029,Common,0.96,0.3,1.92,0.6,-0.06,-0.03,0.28,-0.14
+SECE-EN050,5,Raidraptor - Rise Falcon,monster,,dark,Winged Beast / Xyz,Secrets of Eternity,SECE-EN050,Common,1.03,0.35,5.15,1.75,-0.02,0.05,0.2,0.18
+SECE-EN040,2,Uni-Zombie,monster,,dark,Zombie / Tuner,Secrets of Eternity,SECE-EN040,Common,1.2,0.3,2.4,0.6,-0.01,0.02,0.05,-0.08
+SECE-EN026,1,Yosenju Magat,monster,,wind,Beast / Effect,Secrets of Eternity,SECE-EN026,Common,1.01,0.3,1.01,0.3,-0.01,0.04,0.22,0.2
+SECE-EN062,3,Dragunity Divine Lance,spell,Equip,,,Secrets of Eternity,SECE-EN062,Common,1.98,1.17,5.94,3.51,-0.01,-0.06,0.37,0.68
+SECE-EN077,5,Blaze Accelerator Reload,trap,Continuous,,,Secrets of Eternity,SECE-EN077,Common,0.98,0.3,4.9,1.5,-0.08,-0.03,-0.06,0.09
+SECE-EN061,2,Tenacity of the Monarchs,spell,Normal,,,Secrets of Eternity,SECE-EN061,Rare,1.6,0.3,3.2,0.6,-0.02,0.1,0.39,0.28
+SECE-EN068,3,Wall of Disruption,trap,Normal,,,Secrets of Eternity,SECE-EN068,Common,2.35,0.79,7.05,2.37,0.06,0.13,0.5,0.84
+SECE-EN099,2,Soul Strike,trap,Normal,,,Secrets of Eternity,SECE-EN099,Common,0.97,0.33,1.94,0.66,-0.01,-0.01,0.14,0.17
+SECE-EN093,3,Toy Knight,monster,,earth,Machine / Effect,Secrets of Eternity,SECE-EN093,Common,0.95,0.33,2.85,0.99,-0.01,-0.01,0.1,-0.14
+SECE-EN034,4,Jigabyte,monster,,water,Reptile / Effect,Secrets of Eternity,SECE-EN034,Common,1.07,0.35,4.28,1.4,-0.02,0.0,0.05,0.01
+SECE-EN073,4,Re-qliate,trap,Continuous,,,Secrets of Eternity,SECE-EN073,Common,1.01,0.3,4.04,1.2,-0.06,-0.03,0.16,0.25
+SECE-EN043,2,Marmiting Captain,monster,,earth,Warrior / Effect,Secrets of Eternity,SECE-EN043,Short Print,1.01,0.35,2.02,0.7,-0.04,0.0,-0.35,-0.37
+SECE-EN087,2,U.A. Playmaker,monster,,earth,Warrior / Effect,Secrets of Eternity,SECE-EN087,Rare,1.08,0.39,2.16,0.78,-0.01,0.0,0.17,0.14
+SECE-EN055,5,Constellar Twinkle,spell,Normal,,,Secrets of Eternity,SECE-EN055,Common,0.99,0.25,4.95,1.25,-0.03,-0.02,-0.03,0.22
+SECE-EN024,4,Satellarknight Capella,monster,,light,Warrior / Effect,Secrets of Eternity,SECE-EN024,Common,0.97,0.3,3.88,1.2,-0.04,0.17,0.14,0.23
+SECE-EN065,4,Pendulum Shift,spell,Quick-Play,,,Secrets of Eternity,SECE-EN065,Common,1.0,0.33,4.0,1.32,-0.01,0.04,0.15,0.2
+SECE-EN090,5,Gogogo Golem - Golden Form,monster,,earth,Rock / Effect,Secrets of Eternity,SECE-EN090,Common,1.01,0.33,5.05,1.65,-0.01,0.03,0.15,0.19
+SECE-EN026,6,Yosenju Magat,monster,,wind,Beast / Effect,Secrets of Eternity,SECE-EN026,Common,1.01,0.3,6.06,1.8,-0.01,0.04,0.22,0.2
+SECE-EN098,2,Gogogo Talisman,spell,Continuous,,,Secrets of Eternity,SECE-EN098,Common,0.98,0.3,1.96,0.6,-0.03,0.03,0.2,-0.11
+SECE-EN030,2,Morphtronic Smartfon,monster,,earth,Machine / Tuner,Secrets of Eternity,SECE-EN030,Common,1.0,0.35,2.0,0.7,0.01,-0.01,-0.04,-0.15
+SECE-EN076,3,Unpossessed,trap,Continuous,,,Secrets of Eternity,SECE-EN076,Common,1.01,0.3,3.03,0.9,-0.03,0.0,0.19,0.2
+SECE-EN012,1,Gem-Knight Lapis,monster,,earth,Rock,Secrets of Eternity,SECE-EN012,Common,1.07,0.35,1.07,0.35,-0.03,-0.03,0.06,0.22
+SECE-EN070,1,Raidraptor - Readiness,trap,Normal,,,Secrets of Eternity,SECE-EN070,Common,1.02,0.33,1.02,0.33,-0.02,0.01,0.24,0.23
+SECE-EN027,3,Yosenju Tsujik,monster,,wind,Beast-Warrior / Effect,Secrets of Eternity,SECE-EN027,Common,1.04,0.25,3.12,0.75,-0.03,0.01,0.2,0.28
+SECE-EN011,4,Raidraptor - Vanishing Lanius,monster,,dark,Winged Beast / Effect,Secrets of Eternity,SECE-EN011,Common,0.97,0.35,3.88,1.4,0.0,-0.01,0.18,0.18
+SECE-EN081,3,Mischief of the Gnomes,trap,Normal,,,Secrets of Eternity,SECE-EN081,Common,1.0,0.3,3.0,0.9,0.0,-0.04,0.23,0.27
+SECE-EN074,1,Ritual Beast Ambush,trap,Normal,,,Secrets of Eternity,SECE-EN074,Common,1.12,0.35,1.12,0.35,0.0,0.0,0.14,0.17
+SECE-EN075,2,Zenmaiday,trap,Continuous,,,Secrets of Eternity,SECE-EN075,Common,1.0,0.33,2.0,0.66,-0.03,0.01,0.15,0.16
+SECE-EN096,2,Doggy Diver,monster,,dark,Warrior / Effect,Secrets of Eternity,SECE-EN096,Rare,1.04,0.29,2.08,0.58,0.0,0.06,0.01,0.05
+SECE-EN091,7,Dododo Witch,monster,,earth,Warrior / Effect,Secrets of Eternity,SECE-EN091,Common,1.01,0.3,7.07,2.1,-0.01,0.0,0.12,0.25
+SECE-EN043,2,Marmiting Captain,monster,,earth,Warrior / Effect,Secrets of Eternity,SECE-EN043,Short Print,1.01,0.35,2.02,0.7,-0.04,0.0,-0.35,-0.37
+SECE-EN056,1,Gottoms' Second Call,spell,Normal,,,Secrets of Eternity,SECE-EN056,Rare,1.06,0.3,1.06,0.3,0.0,0.01,-0.39,-0.44
+SECE-EN053,1,Illusion Balloons,spell,Quick-Play,,,Secrets of Eternity,SECE-EN053,Common,1.0,0.33,1.0,0.33,0.16,0.12,0.12,0.16
+SECE-EN033,1,Koa'ki Meiru Overload,monster,,earth,Rock / Effect,Secrets of Eternity,SECE-EN033,Rare,1.03,0.39,1.03,0.39,-0.12,-0.02,0.01,-0.4
+SECE-EN009,2,Superheavy Samurai Soulpiercer,monster,,earth,Machine / Effect,Secrets of Eternity,SECE-EN009,Common,1.07,0.4,2.14,0.8,0.0,0.0,-0.02,-0.04
+SECE-EN097,1,Level Lifter,spell,Normal,,,Secrets of Eternity,SECE-EN097,Common,1.01,0.3,1.01,0.3,-0.02,0.0,-0.14,-0.1
+SECE-EN079,2,Echo Oscillation,trap,Continuous,,,Secrets of Eternity,SECE-EN079,Common,0.95,0.33,1.9,0.66,-0.07,-0.01,-0.29,-0.32
+SECE-EN054,2,Raidraptor - Nest,spell,Continuous,,,Secrets of Eternity,SECE-EN054,Rare,1.06,0.39,2.12,0.78,0.0,0.02,-0.39,-0.44
+SECE-EN010,2,Superheavy Samurai Soulbeads,monster,,earth,Machine / Effect,Secrets of Eternity,SECE-EN010,Common,0.98,0.35,1.96,0.7,-0.02,0.02,-0.08,-0.1
+SECE-EN089,2,U.A. Turnover Tactics,spell,Quick-Play,,,Secrets of Eternity,SECE-EN089,Rare,1.08,0.39,2.16,0.78,-0.08,0.01,-0.39,-0.37
+SECE-EN029,1,Spiritual Beast Rampengu,monster,,wind,Beast / Effect,Secrets of Eternity,SECE-EN029,Common,1.08,0.3,1.08,0.3,-0.02,0.0,0.32,0.21
+SECE-EN092,1,Dododo Swordsman,monster,,earth,Warrior / Effect,Secrets of Eternity,SECE-EN092,Common,0.96,0.33,0.96,0.33,0.13,0.12,0.12,-0.14
+LED4-EN053,1,Lunalight Panther Dancer,monster,,dark,Beast-Warrior / Fusion,Legendary Duelists: Sisters of the Rose,LED4-EN053,Common,1.04,0.25,1.04,0.25,-0.01,0.03,0.42,0.0
+LED4-EN052,1,Lunalight Cat Dancer,monster,,dark,Beast-Warrior / Fusion,Legendary Duelists: Sisters of the Rose,LED4-EN052,Common,0.99,0.25,0.99,0.25,-0.02,0.27,0.34,0.0
+LED4-EN017,1,Cyber Petit Angel,monster,,light,Fairy / Effect,Legendary Duelists: Sisters of the Rose,LED4-EN017,Common,1.01,0.25,1.01,0.25,-0.01,-0.01,0.38,0.0
+LED4-EN051,1,Lunalight Kaleido Chick,monster,,dark,Beast-Warrior / Effect,Legendary Duelists: Sisters of the Rose,LED4-EN051,Common,1.0,0.25,1.0,0.25,-0.03,0.01,0.3,0.0
+LED4-EN047,1,Lunalight Yellow Marten,monster,,dark,Beast-Warrior / Effect,Legendary Duelists: Sisters of the Rose,LED4-EN047,Rare,1.16,0.33,1.16,0.33,0.02,0.04,0.35,0.0
+LED4-EN042,1,Ruffian Railcar,monster,,earth,Machine / Effect,Legendary Duelists: Sisters of the Rose,LED4-EN042,Common,0.97,0.25,0.97,0.25,-0.04,0.39,0.28,0.0
+LED4-EN011,1,Triangle Ecstasy Spark,spell,Normal,,,Legendary Duelists: Sisters of the Rose,LED4-EN011,Common,1.01,0.25,1.01,0.25,0.0,0.36,0.31,0.0
+LED4-EN029,1,Twilight Rose Knight,monster,,dark,Warrior / Tuner,Legendary Duelists: Sisters of the Rose,LED4-EN029,Common,0.99,0.33,0.99,0.33,0.01,-0.04,0.25,0.0
+LED4-EN013,1,Cyber Egg Angel,monster,,light,Fairy / Effect,Legendary Duelists: Sisters of the Rose,LED4-EN013,Rare,1.03,0.33,1.03,0.33,0.01,0.36,0.66,0.0
+LED4-EN019,1,Cyber Angel Idaten,monster,,light,Fairy / Ritual,Legendary Duelists: Sisters of the Rose,LED4-EN019,Common,0.99,0.25,0.99,0.25,0.0,0.32,0.43,0.0
+SBLS-EN038,1,Block Attack,spell,Normal,,,Speed Duel: Arena of Lost Souls,SBLS-EN038,Common,0.96,0.25,0.96,0.25,0.0,0.28,0.32,0.0
+SBLS-EN001,1,Buster Blader,monster,,earth,Warrior / Effect,Speed Duel: Arena of Lost Souls,SBLS-EN001,Common,0.98,0.33,0.98,0.33,0.0,0.29,0.44,0.0
+SBLS-EN016,1,Common Charity,trap,Normal,,,Speed Duel: Arena of Lost Souls,SBLS-EN016,Common,0.95,0.33,0.95,0.33,-0.03,0.01,0.25,0.0
+SBLS-EN003,1,Possessed Dark Soul,monster,,dark,Fiend / Effect,Speed Duel: Arena of Lost Souls,SBLS-EN003,Common,0.91,0.25,0.91,0.25,-0.01,-0.02,0.18,0.0
+SBLS-EN034,2,Great Mammoth of Goldfine,monster,,dark,Zombie / Fusion,Speed Duel: Arena of Lost Souls,SBLS-EN034,Common,0.94,0.2,1.88,0.4,-0.05,-0.01,0.27,0.0
+SBLS-EN008,1,Diffusion Wave-Motion,spell,Normal,,,Speed Duel: Arena of Lost Souls,SBLS-EN008,Common,0.91,0.25,0.91,0.25,-0.01,-0.02,0.15,0.0
+SBLS-EN045,1,Limit Impulse,trap,Normal,,,Speed Duel: Arena of Lost Souls,SBLS-EN045,Common,0.93,0.25,0.93,0.25,-0.04,0.18,0.26,0.0
+SBLS-EN043,1,Half Shut,spell,Quick-Play,,,Speed Duel: Arena of Lost Souls,SBLS-EN043,Common,0.94,0.33,0.94,0.33,-0.07,-0.05,0.0,0.0
+SBLS-EN031,1,King of the Skull Servants,monster,,dark,Zombie / Effect,Speed Duel: Arena of Lost Souls,SBLS-EN031,Super Rare,6.15,5.37,6.15,5.37,0.05,0.1,0.29,0.0
+SBLS-EN036,1,Wasteland,spell,Field,,,Speed Duel: Arena of Lost Souls,SBLS-EN036,Common,0.94,0.25,0.94,0.25,-0.07,-0.07,0.25,0.0
+SBLS-EN030,1,Magical Ghost,monster,,dark,Zombie / Normal,Speed Duel: Arena of Lost Souls,SBLS-EN030,Common,0.93,0.25,0.93,0.25,-0.01,-0.01,0.24,0.0
+SBLS-EN021,1,Amazoness Spy,monster,,earth,Warrior / Effect,Speed Duel: Arena of Lost Souls,SBLS-EN021,Common,0.94,0.25,0.94,0.25,-0.02,-0.02,0.27,0.0
+SBLS-EN014,1,Shield & Sword,spell,Normal,,,Speed Duel: Arena of Lost Souls,SBLS-EN014,Common,0.93,0.33,0.93,0.33,-0.04,-0.05,0.21,0.0
+SBLS-EN025,1,Skull Servant,monster,,dark,Zombie / Normal,Speed Duel: Arena of Lost Souls,SBLS-EN025,Common,1.05,0.33,1.05,0.33,0.01,-0.01,0.22,0.0
+SBLS-EN041,1,Wicked-Breaking Flamberge - Baou,spell,Equip,,,Speed Duel: Arena of Lost Souls,SBLS-EN041,Common,0.99,0.25,0.99,0.25,-0.01,0.05,0.22,0.0
+PGLD-EN085,1,Black Luster Soldier - Envoy of the Beginning,monster,,light,Warrior / Effect,Premium Gold,PGLD-EN085,Gold Rare,10.78,7.53,10.78,7.53,0.02,-0.0,-0.08,-0.41
+PGLD-EN016,1,Beelze of the Diabolic Dragons,monster,,dark,Dragon / Synchro,Premium Gold,PGLD-EN016,Gold Secret Rare,3.65,1.19,3.65,1.19,-0.06,-0.05,-0.1,-0.06
+SP13-EN021,1,Number 39: Utopia,monster,,light,Warrior / Xyz,Star Pack 2013,SP13-EN021,Common,2.91,0.35,2.91,0.35,-0.03,0.24,0.08,0.01
+DRL3-EN049,1,Guardian Dreadscythe,monster,,dark,Fiend / Effect,Dragons of Legend: Unleashed,DRL3-EN049,Ultra Rare,1.11,0.49,1.11,0.49,-0.01,-0.01,-0.16,0.22
+SECE-ENS04,2,Qliphort Cephalopod,monster,,earth,Machine / Pendulum,Secrets of Eternity: Super Edition,SECE-ENS04,Super Rare,2.24,0.3,4.48,0.6,0.0,0.19,-0.46,-0.24
+SECE-EN023,1,Apoqliphort Skybase,monster,,earth,Machine / Effect,Secrets of Eternity,SECE-EN023,Ultra Rare,1.72,0.49,1.72,0.49,0.06,0.26,-0.17,-0.04
+NECH-EN023,3,Qliphort Helix,monster,,earth,Machine / Pendulum,The New Challengers,NECH-EN023,Super Rare,3.18,1.68,9.54,5.04,0.2,0.09,0.18,0.25
+NECH-EN021,2,Qliphort Scout,monster,,earth,Machine / Pendulum,The New Challengers,NECH-EN021,Ultra Rare,3.77,0.49,7.54,0.98,0.13,-0.11,1.27,1.05
+NECH-EN022,3,Qliphort Carrier,monster,,earth,Machine / Pendulum,The New Challengers,NECH-EN022,Super Rare,1.77,0.39,5.31,1.17,-0.14,-0.07,-0.12,-0.29
+NECH-EN026,2,Apoqliphort Towers,monster,,earth,Machine / Effect,The New Challengers,NECH-EN026,Rare,1.17,0.39,2.34,0.78,-0.01,-0.09,0.33,0.09
+NECH-EN002,3,Performapal Trampolynx,monster,,earth,Beast / Pendulum,The New Challengers,NECH-EN002,Rare,1.03,0.35,3.09,1.05,-0.01,0.0,0.29,-0.37
+NECH-EN061,1,Saqlifice,spell,Equip,,,The New Challengers,NECH-EN061,Ultra Rare,3.38,1.46,3.38,1.46,-0.05,-0.08,0.78,0.34
+NECH-EN025,1,Qliphort Shell,monster,,earth,Machine / Pendulum,The New Challengers,NECH-EN025,Rare,1.2,0.49,1.2,0.49,-0.08,-0.02,0.3,0.1
+NECH-EN024,1,Qliphort Disk,monster,,earth,Machine / Pendulum,The New Challengers,NECH-EN024,Secret Rare,3.51,0.99,3.51,0.99,-0.03,0.04,0.33,0.39
+SDMP-EN030,3,Summoner's Art,spell,Normal,,,Master of Pendulum Structure Deck,SDMP-EN030,Common,1.29,0.35,3.87,1.05,-0.02,-0.1,-0.09,-0.25
+PGLD-EN069,1,Bottomless Trap Hole,trap,Normal,,,Premium Gold,PGLD-EN069,Gold Rare,1.87,0.59,1.87,0.59,0.0,-0.08,0.01,-0.19
+YSDJ-EN037,1,Compulsory Evacuation Device,trap,Normal,,,Starter Deck: Jaden Yuki,YSDJ-EN037,Common,1.12,0.25,1.12,0.25,0.01,0.09,0.14,0.06
+CROS-EN041,1,Frightfur Leo,monster,,dark,Fiend / Fusion,Crossed Souls,CROS-EN041,Super Rare,2.25,0.89,2.25,0.89,-0.04,0.0,-0.26,-0.11
+CROS-EN015,1,Edge Imp Frightfuloid,monster,,dark,Fiend / Effect,Crossed Souls,CROS-EN015,Common,0.99,0.3,0.99,0.3,0.03,-0.01,0.14,0.11
+CROS-EN011,1,Fluffal Sheep,monster,,earth,Fairy / Effect,Crossed Souls,CROS-EN011,Common,1.03,0.35,1.03,0.35,-0.04,-0.02,0.17,0.12
+CROS-EN068,1,Fluffal Crane,trap,Normal,,,Crossed Souls,CROS-EN068,Common,0.99,0.3,0.99,0.3,-0.04,0.03,0.21,-0.19
+NECH-EN046,2,Frightfur Bear,monster,,dark,Fiend / Fusion,The New Challengers,NECH-EN046,Rare,1.08,0.49,2.16,0.98,-0.37,-0.4,0.21,-0.36
+NECH-EN047,3,Frightfur Wolf,monster,,dark,Fiend / Fusion,The New Challengers,NECH-EN047,Rare,1.1,0.3,3.3,0.9,0.01,0.02,0.08,0.05
+NECH-EN019,2,Fluffal Cat,monster,,earth,Fairy / Effect,The New Challengers,NECH-EN019,Common,1.08,0.35,2.16,0.7,0.0,0.21,0.3,0.23
+NECH-EN015,3,Fluffal Leo,monster,,earth,Fairy / Effect,The New Challengers,NECH-EN015,Common,1.01,0.3,3.03,0.9,0.0,0.01,-0.04,-0.06
+NECH-EN020,2,Fluffal Rabbit,monster,,earth,Fairy / Effect,The New Challengers,NECH-EN020,Common,1.03,0.35,2.06,0.7,-0.04,0.01,0.23,0.17
+NECH-EN018,3,Fluffal Owl,monster,,earth,Fairy / Effect,The New Challengers,NECH-EN018,Rare,1.13,0.3,3.39,0.9,-0.02,0.01,0.19,0.05
+NECH-EN016,1,Fluffal Bear,monster,,earth,Fairy / Effect,The New Challengers,NECH-EN016,Common,1.58,0.35,1.58,0.35,-0.06,-0.08,-0.45,-0.38
+NECH-EN060,1,Toy Vendor,spell,Continuous,,,The New Challengers,NECH-EN060,Common,1.08,0.35,1.08,0.35,0.0,-0.04,-0.32,-0.38
+NECH-EN017,1,Fluffal Dog,monster,,earth,Fairy / Effect,The New Challengers,NECH-EN017,Rare,1.63,0.3,1.63,0.3,-0.04,-0.07,0.16,0.21
+NECH-ENS02,1,Edge Imp Sabres,monster,,dark,Fiend / Effect,The New Challengers: Super Edition,NECH-ENS02,Super Rare,3.83,0.99,3.83,0.99,0.9,0.01,-0.3,0.49
+NECH-EN078,1,Fusion Reserve,trap,Normal,,,The New Challengers,NECH-EN078,Ultra Rare,1.49,0.39,1.49,0.39,-0.01,-0.01,0.16,0.31
+NECH-EN056,1,Mimiclay,spell,Normal,,,The New Challengers,NECH-EN056,Common,0.93,0.33,0.93,0.33,-0.01,-0.08,0.22,0.13
+MP15-EN159,1,Frightfur Wolf,monster,,dark,Fiend / Fusion,2015 Mega-Tin Mega Pack,MP15-EN159,Rare,1.2,0.39,1.2,0.39,0.0,0.01,-0.09,-0.01
+DP1-EN015,2,Fusion Sage,spell,Normal,,,Duelist Pack: Jaden Yuki,DP1-EN015,Common,1.35,0.3,2.7,0.6,0.17,-0.04,-0.09,-0.1
+YGLD-ENC28,1,Polymerization,spell,Normal,,,Yugi's Legendary Decks,YGLD-ENC28,Common,1.74,0.39,1.74,0.39,-0.03,-0.02,-0.02,-0.02
+YGLD-ENA35,1,Polymerization,spell,Normal,,,Yugi's Legendary Decks,YGLD-ENA35,Common,1.72,0.49,1.72,0.49,-0.03,-0.05,0.01,-0.03
+DPKB-EN028,1,Polymerization,spell,Normal,,,Duelist Pack: Kaiba,DPKB-EN028,Common,1.93,0.49,1.93,0.49,-0.03,-0.06,-0.18,-0.29
+MP16-EN024,1,Fusion Conscription,spell,Normal,,,2016 Mega-Tin Mega Pack,MP16-EN024,Rare,1.19,0.35,1.19,0.35,-0.01,0.01,0.16,0.21
+TN19-EN001,1,Blue-Eyes Alternative Ultimate Dragon,monster,,light,Dragon / Fusion,2019 Gold Sarcophagus Tin,TN19-EN001,Prismatic Secret Rare,12.28,0.79,12.28,0.79,0.17,0.12,0.0,0.0
+TN19-EN007,1,Obelisk the Tormentor,monster,,divine,Divine-Beast / Effect,2019 Gold Sarcophagus Tin,TN19-EN007,Prismatic Secret Rare,2.23,1.28,2.23,1.28,-0.03,0.04,0.0,0.0
+TN19-EN009,1,The Winged Dragon of Ra,monster,,divine,Divine-Beast / Effect,2019 Gold Sarcophagus Tin,TN19-EN009,Prismatic Secret Rare,2.19,0.79,2.19,0.79,0.07,-0.07,0.0,0.0
+TN19-EN006,1,Neo Kaiser Glider,monster,,light,Dragon / Effect,2019 Gold Sarcophagus Tin,TN19-EN006,Prismatic Secret Rare,1.25,0.25,1.25,0.25,-0.01,0.01,0.0,0.0
+TN19-EN014,1,Dark Ruler No More,spell,Normal,,,2019 Gold Sarcophagus Tin,TN19-EN014,Prismatic Secret Rare,3.84,2.67,3.84,2.67,-0.02,-0.07,0.0,0.0
+LED5-EN053,2,Predaplant Dragostapelia,monster,,dark,Plant / Fusion,Legendary Duelists: Immortal Destiny,LED5-EN053,Common,0.95,0.25,1.9,0.5,-0.01,-0.01,0.0,0.0
+LED5-EN051,2,Predaplant Chlamydosundew,monster,,dark,Plant / Effect,Legendary Duelists: Immortal Destiny,LED5-EN051,Common,0.9,0.25,1.8,0.5,-0.07,-0.06,0.0,0.0
+LED5-EN018,2,Evil HERO Infernal Gainer,monster,,earth,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN018,Common,0.96,0.25,1.92,0.5,0.02,0.01,0.0,0.0
+LED5-EN009,2,Dark Sanctuary,spell,Field,,,Legendary Duelists: Immortal Destiny,LED5-EN009,Rare,1.05,0.33,2.1,0.66,-0.03,-0.05,0.0,0.0
+LED5-EN040,1,Gimmick Puppet Magnet Doll,monster,,dark,Machine / Effect,Legendary Duelists: Immortal Destiny,LED5-EN040,Common,1.0,0.25,1.0,0.25,0.03,0.03,0.0,0.0
+LED5-EN054,1,Predaponics,spell,Continuous,,,Legendary Duelists: Immortal Destiny,LED5-EN054,Common,0.96,0.25,0.96,0.25,0.0,0.0,0.0,0.0
+LED5-EN039,1,Gimmick Puppet Dreary Doll,monster,,dark,Machine / Effect,Legendary Duelists: Immortal Destiny,LED5-EN039,Common,0.97,0.25,0.97,0.25,-0.01,0.03,0.0,0.0
+LED5-EN032,1,Sun Dragon Inti,monster,,light,Dragon / Synchro,Legendary Duelists: Immortal Destiny,LED5-EN032,Common,0.69,0.33,0.69,0.33,-0.03,0.0,0.0,0.0
+LED5-EN056,1,Earthbound Immortal Revival,spell,Normal,,,Legendary Duelists: Immortal Destiny,LED5-EN056,Common,0.98,0.25,0.98,0.25,0.01,0.01,0.0,0.0
+LED5-EN007,1,Doomcaliber Knight,monster,,dark,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN007,Common,0.99,0.25,0.99,0.25,0.04,0.0,0.0,0.0
+LED5-EN019,1,Evil HERO Infernal Prodigy,monster,,dark,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN019,Common,0.97,0.25,0.97,0.25,0.31,0.0,0.0,0.0
+LED5-EN041,1,Gimmick Puppet Des Troy,monster,,dark,Machine / Effect,Legendary Duelists: Immortal Destiny,LED5-EN041,Common,0.97,0.25,0.97,0.25,-0.01,0.03,0.0,0.0
+LED5-EN017,1,Evil HERO Malicious Edge,monster,,earth,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN017,Common,0.98,0.25,0.98,0.25,0.04,0.29,0.0,0.0
+LED5-EN030,1,Fire Ant Ascator,monster,,earth,Insect / Tuner,Legendary Duelists: Immortal Destiny,LED5-EN030,Common,0.96,0.25,0.96,0.25,0.01,0.0,0.0,0.0
+LED5-EN019,1,Evil HERO Infernal Prodigy,monster,,dark,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN019,Common,0.97,0.25,0.97,0.25,0.31,0.0,0.0,0.0
+LED5-EN018,1,Evil HERO Infernal Gainer,monster,,earth,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN018,Common,0.96,0.25,0.96,0.25,0.02,0.01,0.0,0.0
+LED5-EN043,1,Number 40: Gimmick Puppet of Strings,monster,,dark,Machine / Xyz,Legendary Duelists: Immortal Destiny,LED5-EN043,Common,0.98,0.33,0.98,0.33,0.34,0.0,0.0,0.0
+LED5-EN021,1,Dark Fusion,spell,Normal,,,Legendary Duelists: Immortal Destiny,LED5-EN021,Common,0.87,0.33,0.87,0.33,-0.1,0.0,0.0,0.0
+LED5-EN044,1,Junk Puppet,spell,Normal,,,Legendary Duelists: Immortal Destiny,LED5-EN044,Common,0.97,0.25,0.97,0.25,0.03,0.03,0.0,0.0
+LED5-EN050,1,Predaplant Drosophyllum Hydra,monster,,dark,Plant / Effect,Legendary Duelists: Immortal Destiny,LED5-EN050,Common,0.96,0.25,0.96,0.25,-0.01,0.01,0.0,0.0
+LED5-EN025,1,"Supay, Duskwalker",monster,,earth,Spellcaster / Effect,Legendary Duelists: Immortal Destiny,LED5-EN025,Ultra Rare,1.61,0.69,1.61,0.69,-0.07,-0.2,0.0,0.0
+LED5-EN006,1,Dark Necrofear,monster,,dark,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN006,Common,0.94,0.25,0.94,0.25,-0.02,-0.03,0.0,0.0
+LED5-EN000,1,Earthbound Immortal Ccapac Apu,monster,,dark,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN000,Rare,0.98,0.33,0.98,0.33,0.01,0.0,0.0,0.0
+LED5-EN035,3,Gimmick Puppet Terror Baby,monster,,dark,Machine / Effect,Legendary Duelists: Immortal Destiny,LED5-EN035,Rare,1.03,0.33,3.09,0.99,0.0,-0.01,0.0,0.0
+LED5-EN037,2,Perform Puppet,spell,Continuous,,,Legendary Duelists: Immortal Destiny,LED5-EN037,Rare,1.04,0.33,2.08,0.66,0.09,0.01,0.0,0.0
+MP19-EN261,1,Sky Striker Maneuver - Afterburners!,spell,Normal,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN261,Super Rare,1.12,0.39,1.12,0.39,0.03,0.0,0.0,0.0
+MP19-EN201,1,Herald of the Abyss,spell,Normal,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN201,Ultra Rare,1.04,0.33,1.04,0.33,0.01,0.02,0.0,0.0
+MP19-EN222,1,Noble Knight Iyvanne,monster,,light,Warrior / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN222,Rare,1.03,0.33,1.03,0.33,0.01,0.0,0.0,0.0
+MP19-EN080,1,Crusadia Draco,monster,,wind,Dragon / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN080,Super Rare,1.29,0.39,1.29,0.39,-0.02,-0.04,0.0,0.0
+MP19-EN160,1,Dinowrestler Pankratops,monster,,earth,Dinosaur / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN160,Ultra Rare,1.75,0.69,1.75,0.69,-0.01,-0.08,0.0,0.0
+MP19-EN180,1,Cyberse Clock Dragon,monster,,dark,Cyberse / Fusion,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN180,Rare,1.06,0.35,1.06,0.35,0.01,0.01,0.0,0.0
+MP19-EN250,1,"Sagitta, Maverick Fur Hire",monster,,wind,Winged Beast / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN250,Common,1.07,0.25,1.07,0.25,0.02,0.05,0.0,0.0
+MP19-EN001,1,Prompthorn,monster,,dark,Cyberse / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN001,Common,1.02,0.25,1.02,0.25,0.04,0.0,0.0,0.0
+MP19-EN187,1,Dinowrestler King T Wrextle,monster,,earth,Dinosaur / Link,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN187,Common,1.03,0.25,1.03,0.25,0.0,0.3,0.0,0.0
+MP19-EN035,1,Trickstar Bouquet,spell,Quick-Play,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN035,Common,1.0,0.25,1.0,0.25,-0.03,-0.03,0.0,0.0
+MP19-EN053,1,Waking the Dragon,trap,Normal,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN053,Common,1.14,0.55,1.14,0.55,0.15,0.31,0.0,0.0
+MP19-EN058,1,Vendread Nightmare,spell,Continuous,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN058,Common,1.02,0.25,1.02,0.25,0.0,0.32,0.0,0.0
+MP19-EN238,1,Vampire Red Baron,monster,,dark,Zombie / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN238,Common,1.02,0.25,1.02,0.25,0.03,0.03,0.0,0.0
+MP19-EN039,1,World Legacy's Nightmare,spell,Field,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN039,Common,1.01,0.25,1.01,0.25,-0.01,0.0,0.0,0.0
+MP19-EN144,1,Noble Arms - Clarent,spell,Equip,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN144,Common,1.04,0.25,1.04,0.25,0.0,-0.01,0.0,0.0
+MP19-EN031,1,Fire Fighting Daruma Doll,monster,,fire,Beast-Warrior / Link,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN031,Common,1.02,0.25,1.02,0.25,0.38,0.38,0.0,0.0
+MP19-EN008,1,Background Dragon,monster,,dark,Dragon / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN008,Common,1.0,0.25,1.0,0.25,-0.02,-0.02,0.0,0.0
+MP19-EN117,1,Crusadia Power,spell,Quick-Play,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN117,Common,1.04,0.25,1.04,0.25,-0.01,-0.01,0.0,0.0
+MP19-EN161,1,Galaxy Cleric,monster,,light,Spellcaster / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN161,Common,1.04,0.25,1.04,0.25,0.01,0.01,0.0,0.0
+MP19-EN208,1,Thunder Dragon Discharge,trap,Continuous,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN208,Common,1.02,0.25,1.02,0.25,0.04,0.01,0.0,0.0
+MP19-EN147,1,Performapal Gold Fang,monster,,light,Beast / Pendulum,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN147,Common,1.03,0.25,1.03,0.25,0.01,0.01,0.0,0.0
+MP19-EN003,1,Link Streamer,monster,,light,Cyberse / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN003,Common,0.97,0.25,0.97,0.25,-0.01,-0.03,0.0,0.0
+MP19-EN023,1,Trickstar Delfiendium,monster,,light,Fairy / Link,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN023,Common,1.02,0.25,1.02,0.25,0.0,0.0,0.0,0.0
+MP19-EN158,1,Dinowrestler Capaptera,monster,,wind,Dinosaur / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN158,Common,1.03,0.25,1.03,0.25,0.0,0.32,0.0,0.0
+MP19-EN052,1,Mamemaki,trap,Normal,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN052,Common,0.99,0.25,0.99,0.25,0.0,-0.03,0.0,0.0
+MP19-EN205,1,Necrovalley Temple,trap,Continuous,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN205,Common,1.03,0.25,1.03,0.25,0.0,0.01,0.0,0.0
+MP19-EN246,1,"Helmer, Helmsman Fur Hire",monster,,water,Aqua / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN246,Common,1.08,0.25,1.08,0.25,0.0,0.02,0.0,0.0
+MP19-EN155,1,Salamangreat Falco,monster,,fire,Cyberse / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN155,Common,1.02,0.25,1.02,0.25,0.04,0.01,0.0,0.0
+MP19-EN211,1,Invincibility Barrier,trap,Continuous,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN211,Common,0.99,0.25,0.99,0.25,-0.01,0.0,0.0,0.0
+MP19-EN216,1,Consolation Prize,trap,Normal,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN216,Common,0.96,0.25,0.96,0.25,0.0,-0.01,0.0,0.0
+MP19-EN175,1,Bearblocker,monster,,dark,Fiend / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN175,Common,1.02,0.25,1.02,0.25,-0.01,0.0,0.0,0.0
+MP19-EN005,1,Trickstar Mandrake,monster,,light,Fairy / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN005,Common,1.02,0.25,1.02,0.25,0.31,0.34,0.0,0.0
+MP19-EN254,1,"Fandora, the Flying Furtress",spell,Field,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN254,Common,1.02,0.25,1.02,0.25,-0.01,0.0,0.0,0.0
+MP19-EN100,1,Restoration Point Guard,monster,,dark,Cyberse / Link,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN100,Common,1.02,0.25,1.02,0.25,0.0,0.04,0.0,0.0
+MP19-EN014,1,Trancefamiliar,monster,,dark,Psychic / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN014,Common,1.01,0.25,1.01,0.25,0.06,0.29,0.0,0.0
+MP19-EN234,1,Vampire Retainer,monster,,dark,Zombie / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN234,Common,1.04,0.33,1.04,0.33,-0.01,0.01,0.0,0.0
+MP19-EN189,1,Crusadia Spatha,monster,,light,Warrior / Link,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN189,Common,1.04,0.25,1.04,0.25,0.0,0.27,0.0,0.0
+MP19-EN085,1,Cyber Dragon Vier,monster,,light,Machine / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN085,Common,1.05,0.25,1.05,0.25,0.0,0.0,0.0,0.0
+MP19-EN099,1,Link Devotee,monster,,earth,Cyberse / Link,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN099,Common,0.98,0.25,0.98,0.25,-0.04,0.34,0.0,0.0
+MP19-EN088,1,Dragunity Couse,monster,,wind,Dragon / Tuner,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN088,Common,1.01,0.25,1.01,0.25,-0.01,0.0,0.0,0.0
+MP19-EN125,1,Shield Handler,trap,Normal,,,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN125,Common,1.01,0.25,1.01,0.25,-0.01,0.0,0.0,0.0
+MP19-EN185,1,Clock Spartoi,monster,,dark,Cyberse / Link,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN185,Common,1.04,0.25,1.04,0.25,-0.01,0.32,0.0,0.0
+MP19-EN012,1,"World Legacy - ""World Lance""",monster,,dark,Machine / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN012,Super Rare,1.07,0.33,1.07,0.33,0.0,0.43,0.0,0.0
+MP19-EN136,1,Danger! Bigfoot!,monster,,dark,Beast / Effect,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN136,Ultra Rare,3.98,2.56,3.98,2.56,-0.01,0.12,0.0,0.0
+MP19-EN024,1,Altergeist Kidolga,monster,,dark,Spellcaster / Link,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN024,Rare,1.0,0.33,1.0,0.33,-0.03,0.27,0.0,0.0
+MP19-EN257,1,Sky Striker Ace - Kagari,monster,,fire,Machine / Link,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN257,Prismatic Secret Rare,1.72,0.59,1.72,0.59,-0.02,-0.12,0.0,0.0
+MP19-EN109,1,Sky Striker Ace - Hayate,monster,,wind,Machine / Link,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN109,Prismatic Secret Rare,3.06,2.0,3.06,2.0,-0.02,0.04,0.0,0.0
+MP19-EN105,1,Crusadia Magius,monster,,light,Spellcaster / Link,2019 Gold Sarcophagus Tin Mega Pack,MP19-EN105,Prismatic Secret Rare,1.34,0.49,1.34,0.49,-0.03,-0.06,0.0,0.0
+BLHR-EN041,1,Revival Swarm,spell,Normal,,,Battles of Legend: Hero's Revenge,BLHR-EN041,Ultra Rare,0.8,0.33,0.8,0.33,-0.01,-0.06,0.0,0.0
+BLHR-EN018,1,Fortune Fairy Ann,monster,,dark,Spellcaster / Effect,Battles of Legend: Hero's Revenge,BLHR-EN018,Ultra Rare,1.07,0.33,1.07,0.33,0.06,0.02,0.0,0.0
+BLHR-EN063,1,Destiny HERO - Dangerous,monster,,dark,Warrior / Fusion,Battles of Legend: Hero's Revenge,BLHR-EN063,Ultra Rare,1.06,0.33,1.06,0.33,0.0,0.39,0.0,0.0
+BLHR-EN017,1,Fortune Fairy Swee,monster,,water,Spellcaster / Effect,Battles of Legend: Hero's Revenge,BLHR-EN017,Ultra Rare,1.07,0.33,1.07,0.33,-0.01,0.0,0.0,0.0
+BLHR-EN010,1,Vision HERO Faris,monster,,dark,Warrior / Effect,Battles of Legend: Hero's Revenge,BLHR-EN010,Secret Rare,10.98,6.46,10.98,6.46,0.04,0.07,0.0,0.0
+BLHR-EN069,1,Predaplast,spell,Quick-Play,,,Battles of Legend: Hero's Revenge,BLHR-EN069,Ultra Rare,1.01,0.33,1.01,0.33,-0.02,0.31,0.0,0.0
+BLHR-EN018,1,Fortune Fairy Ann,monster,,dark,Spellcaster / Effect,Battles of Legend: Hero's Revenge,BLHR-EN018,Ultra Rare,1.07,0.33,1.07,0.33,0.06,0.02,0.0,0.0
+BLHR-EN068,1,Lunalight Kaleido Chick,monster,,dark,Beast-Warrior / Effect,Battles of Legend: Hero's Revenge,BLHR-EN068,Ultra Rare,1.12,0.33,1.12,0.33,0.01,0.02,0.0,0.0
+BLHR-EN072,1,Salamangreat Sanctuary,spell,Field,,,Battles of Legend: Hero's Revenge,BLHR-EN072,Ultra Rare,1.05,0.33,1.05,0.33,-0.01,0.42,0.0,0.0
+LED5-EN038,3,Puppet Parade,trap,Normal,,,Legendary Duelists: Immortal Destiny,LED5-EN038,Common,1.0,0.25,3.0,0.75,-0.02,0.04,0.0,0.0
+LED5-EN033,1,Moon Dragon Quilla,monster,,dark,Dragon / Synchro,Legendary Duelists: Immortal Destiny,LED5-EN033,Common,0.95,0.33,0.95,0.33,0.0,0.0,0.0,0.0
+LED5-EN006,2,Dark Necrofear,monster,,dark,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN006,Common,0.94,0.25,1.88,0.5,-0.02,-0.03,0.0,0.0
+LED5-EN050,2,Predaplant Drosophyllum Hydra,monster,,dark,Plant / Effect,Legendary Duelists: Immortal Destiny,LED5-EN050,Common,0.96,0.25,1.92,0.5,-0.01,0.01,0.0,0.0
+LED5-EN003,1,Dark Spirit of Malice,monster,,dark,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN003,Super Rare,4.13,1.85,4.13,1.85,0.2,1.2,0.0,0.0
+LED5-EN016,1,Evil Mind,spell,Normal,,,Legendary Duelists: Immortal Destiny,LED5-EN016,Rare,1.02,0.33,1.02,0.33,-0.01,0.15,0.0,0.0
+LED5-EN032,1,Sun Dragon Inti,monster,,light,Dragon / Synchro,Legendary Duelists: Immortal Destiny,LED5-EN032,Common,0.69,0.33,0.69,0.33,-0.03,0.0,0.0,0.0
+LED5-EN056,1,Earthbound Immortal Revival,spell,Normal,,,Legendary Duelists: Immortal Destiny,LED5-EN056,Common,0.98,0.25,0.98,0.25,0.01,0.01,0.0,0.0
+LED5-EN031,1,Supay,monster,,earth,Fiend / Tuner,Legendary Duelists: Immortal Destiny,LED5-EN031,Common,0.96,0.25,0.96,0.25,0.0,-0.34,0.0,0.0
+LED5-EN019,1,Evil HERO Infernal Prodigy,monster,,dark,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN019,Common,0.97,0.25,0.97,0.25,0.31,0.0,0.0,0.0
+LED5-EN027,1,Ultimate Earthbound Immortal,trap,Continuous,,,Legendary Duelists: Immortal Destiny,LED5-EN027,Rare,1.02,0.33,1.02,0.33,-0.02,0.02,0.0,0.0
+LED5-EN010,1,Zoma the Spirit,trap,Continuous,,,Legendary Duelists: Immortal Destiny,LED5-EN010,Common,0.94,0.25,0.94,0.25,0.0,-0.02,0.0,0.0
+LED5-EN051,1,Predaplant Chlamydosundew,monster,,dark,Plant / Effect,Legendary Duelists: Immortal Destiny,LED5-EN051,Common,0.9,0.25,0.9,0.25,-0.07,-0.06,0.0,0.0
+LED5-EN022,1,Dark Calling,spell,Normal,,,Legendary Duelists: Immortal Destiny,LED5-EN022,Common,0.99,0.33,0.99,0.33,0.3,0.0,0.0,0.0
+LED5-EN048,1,Predaprime Fusion,spell,Quick-Play,,,Legendary Duelists: Immortal Destiny,LED5-EN048,Rare,1.02,0.33,1.02,0.33,-0.02,0.06,0.0,0.0
+LED5-EN033,1,Moon Dragon Quilla,monster,,dark,Dragon / Synchro,Legendary Duelists: Immortal Destiny,LED5-EN033,Common,0.95,0.33,0.95,0.33,0.0,0.0,0.0,0.0
+LED5-EN027,1,Ultimate Earthbound Immortal,trap,Continuous,,,Legendary Duelists: Immortal Destiny,LED5-EN027,Rare,1.02,0.33,1.02,0.33,-0.02,0.02,0.0,0.0
+LED5-EN043,1,Number 40: Gimmick Puppet of Strings,monster,,dark,Machine / Xyz,Legendary Duelists: Immortal Destiny,LED5-EN043,Common,0.98,0.33,0.98,0.33,0.34,0.0,0.0,0.0
+LED5-EN018,1,Evil HERO Infernal Gainer,monster,,earth,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN018,Common,0.96,0.25,0.96,0.25,0.02,0.01,0.0,0.0
+LED5-EN054,2,Predaponics,spell,Continuous,,,Legendary Duelists: Immortal Destiny,LED5-EN054,Common,0.96,0.25,1.92,0.5,0.0,0.0,0.0,0.0
+LED5-EN033,1,Moon Dragon Quilla,monster,,dark,Dragon / Synchro,Legendary Duelists: Immortal Destiny,LED5-EN033,Common,0.95,0.33,0.95,0.33,0.0,0.0,0.0,0.0
+LED5-EN017,2,Evil HERO Malicious Edge,monster,,earth,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN017,Common,0.98,0.25,1.96,0.5,0.04,0.29,0.0,0.0
+LED5-EN032,1,Sun Dragon Inti,monster,,light,Dragon / Synchro,Legendary Duelists: Immortal Destiny,LED5-EN032,Common,0.69,0.33,0.69,0.33,-0.03,0.0,0.0,0.0
+LED5-EN041,1,Gimmick Puppet Des Troy,monster,,dark,Machine / Effect,Legendary Duelists: Immortal Destiny,LED5-EN041,Common,0.97,0.25,0.97,0.25,-0.01,0.03,0.0,0.0
+LED5-EN048,1,Predaprime Fusion,spell,Quick-Play,,,Legendary Duelists: Immortal Destiny,LED5-EN048,Rare,1.02,0.33,1.02,0.33,-0.02,0.06,0.0,0.0
+LED5-EN029,1,Oracle of the Sun,monster,,light,Spellcaster / Effect,Legendary Duelists: Immortal Destiny,LED5-EN029,Common,0.95,0.33,0.95,0.33,0.14,0.0,0.0,0.0
+LED5-EN021,1,Dark Fusion,spell,Normal,,,Legendary Duelists: Immortal Destiny,LED5-EN021,Common,0.87,0.33,0.87,0.33,-0.1,0.0,0.0,0.0
+LED5-EN005,1,Sentence of Doom,trap,Continuous,,,Legendary Duelists: Immortal Destiny,LED5-EN005,Super Rare,1.24,0.39,1.24,0.39,-0.05,-0.19,0.0,0.0
+LED5-EN000,1,Earthbound Immortal Ccapac Apu,monster,,dark,Fiend / Effect,Legendary Duelists: Immortal Destiny,LED5-EN000,Rare,0.98,0.33,0.98,0.33,0.01,0.0,0.0,0.0
+BPT-006,1,B. Skull Dragon,monster,,dark,Dragon / Fusion,Booster Pack Collectors Tins 2002,BPT-006,Secret Rare,22.89,4.99,22.89,4.99,0.07,0.03,0.29,1.01
+JMP-EN005,1,Blue-Eyes Ultimate Dragon,monster,,light,Dragon / Fusion,"Shonen Jump Vol. 4, Issue 1 promotional card",JMP-EN005,Secret Rare,11.32,3.39,11.32,3.39,-0.06,0.82,0.15,-0.12
+POTD-EN031,1,Elemental HERO Aqua Neos,monster,,water,Warrior / Fusion,Power of the Duelist,POTD-EN031,Ultra Rare,5.0,2.05,5.0,2.05,0.17,0.06,-0.26,-0.39
+DMG-001,1,Dark Paladin,monster,,dark,Spellcaster / Fusion,Duel Master's Guide promotional cards,DMG-001,Secret Rare,41.53,19.95,41.53,19.95,-0.03,0.01,0.48,1.13
+TAEV-EN043,1,Elemental HERO Magma Neos,monster,,fire,Warrior / Fusion,Tactical Evolution,TAEV-EN043,Secret Rare,50.33,23.66,50.33,23.66,-0.03,0.02,0.01,0.0
+MF02-EN001,2,Elemental HERO Tempest,monster,,wind,Warrior / Fusion,Mattel Action Figure promotional cards: Series 2,MF02-EN001,Normal Parallel Rare,12.09,7.75,24.18,15.5,-0.32,0.02,-0.53,-0.56
+CT03-EN004,2,Elemental HERO Shining Flare Wingman,monster,,light,Warrior / Fusion,Collectible Tins 2006 Wave 2,CT03-EN004,Secret Rare,10.01,5.6,20.02,11.2,0.1,0.15,0.02,0.03
+CT04-EN001,2,Elemental HERO Grand Neos,monster,,earth,Warrior / Fusion,Collectible Tins 2007 Wave 1,CT04-EN001,Secret Rare,5.75,1.79,11.5,3.58,-0.22,-0.04,-0.39,0.14
+EHC2-EN001,2,Elemental HERO Sparkman,monster,,light,Warrior,Yu-Gi-Oh! Elemental Hero Collection 2,EHC2-EN001,Secret Rare,29.14,20.0,58.28,40.0,0.03,-0.06,0.13,-0.21
+CT2-EN005,1,Rocket Warrior,monster,,light,Warrior / Effect,Collectible Tins 2005,CT2-EN005,Secret Rare,6.08,2.49,6.08,2.49,-0.01,-0.02,0.13,-0.26
+RDS-EN028,1,Gaia Soul the Combustible Collective,monster,,fire,Pyro / Effect,Rise of Destiny,RDS-EN028,Rare,1.01,0.39,1.01,0.39,0.03,0.03,-0.02,0.1
+DB1-EN195,1,Thousand-Eyes Restrict,monster,,dark,Spellcaster / Fusion,Dark Beginning 1,DB1-EN195,Ultra Rare,14.86,7.99,14.86,7.99,0.08,0.22,0.54,0.8
+SDJ-001,1,Red-Eyes B. Dragon,monster,,dark,Dragon / Normal,Starter Deck: Joey,SDJ-001,Ultra Rare,4.93,1.34,4.93,1.34,0.01,-0.5,-0.41,-0.31
+PP01-EN002,1,Black Magic Ritual,spell,Ritual,,,Premium Pack (TCG),PP01-EN002,Secret Rare,2.55,0.89,2.55,0.89,0.0,0.13,0.11,0.21
+SD1-EN001,4,Red-Eyes Darkness Dragon,monster,,dark,Dragon / Effect,Structure Deck: Dragon's Roar,SD1-EN001,Ultra Rare,4.41,1.84,17.64,7.36,-0.0,-0.04,-0.28,-0.15
+SYE-024,6,Black Luster Soldier,monster,,earth,Warrior / Ritual,Starter Deck: Yugi Evolution,SYE-024,Ultra Rare,9.77,2.0,58.62,12.0,0.09,0.7,1.08,1.44
+DL1-002,1,Buster Blader,monster,,earth,Warrior / Effect,Duelist League Series 1 participation cards,DL1-002,Super Rare,6.84,2.25,6.84,2.25,0.09,-0.03,0.34,0.92
+SYE-001,3,Dark Magician,monster,,dark,Spellcaster / Normal,Starter Deck: Yugi Evolution,SYE-001,Super Rare,1.22,0.49,3.66,1.47,0.0,0.0,-0.39,-0.67
+FL1-EN002,1,Dark Magician,monster,,dark,Spellcaster / Normal,Forbidden Legacy,FL1-EN002,Secret Rare,4.59,2.29,4.59,2.29,-0.04,-0.01,-0.13,0.11
+CT03-EN001,1,Elemental HERO Neos,monster,,light,Warrior / Normal,Collectible Tins 2006 Wave 1,CT03-EN001,Secret Rare,7.41,4.15,7.41,4.15,-0.03,-0.0,0.05,-0.39
+DP1-EN010,1,Elemental HERO Flame Wingman,monster,,wind,Warrior / Fusion,Duelist Pack: Jaden Yuki,DP1-EN010,Super Rare,5.41,3.36,5.41,3.36,0.05,-0.04,-0.25,-0.28
+DP1-EN013,1,Elemental HERO Steam Healer,monster,,water,Warrior / Fusion,Duelist Pack: Jaden Yuki,DP1-EN013,Ultra Rare,6.68,2.99,6.68,2.99,-0.02,-0.15,-0.32,-0.4
+EHC2-EN002,2,Elemental HERO Clayman,monster,,earth,Warrior,Yu-Gi-Oh! Elemental Hero Collection 2,EHC2-EN002,Secret Rare,45.27,32.33,90.54,64.66,-0.06,-0.19,0.35,0.48
+CT04-EN006,1,Elemental HERO Plasma Vice,monster,,earth,Warrior / Fusion,Collectible Tins 2007 Wave 2,CT04-EN006,Secret Rare,10.9,2.85,10.9,2.85,0.0,0.97,0.72,0.58
+YSDJ-EN017,3,Elemental HERO Bubbleman,monster,,water,Warrior / Effect,Starter Deck: Jaden Yuki,YSDJ-EN017,Super Rare,3.64,1.79,10.92,5.37,0.02,-0.09,-0.25,-0.02
+EHC2-EN003,2,Elemental HERO Wildheart,monster,,earth,Warrior / Effect,Yu-Gi-Oh! Elemental Hero Collection 2,EHC2-EN003,Secret Rare,19.63,5.99,39.26,11.98,0.02,0.37,0.58,0.3
+GSE-EN001,1,Elemental HERO Wildheart,monster,,earth,Warrior / Effect,Yu-Gi-Oh! GX Special Edition,GSE-EN001,Ultra Secret Rare,3.89,0.69,3.89,0.69,-0.01,0.04,0.09,0.49
+YSDJ-EN000,3,Elemental HERO Necroshade,monster,,dark,Warrior / Effect,Starter Deck: Jaden Yuki,YSDJ-EN000,Ultra Rare,2.19,0.79,6.57,2.37,-0.13,0.19,-0.06,0.28
+EHC2-EN004,2,Elemental HERO Thunder Giant,monster,,light,Warrior / Fusion,Yu-Gi-Oh! Elemental Hero Collection 2,EHC2-EN004,Secret Rare,11.09,9.39,22.18,18.78,-0.1,-0.07,-0.08,-0.14
+YSD-EN019,2,Elemental HERO Bladedge,monster,,earth,Warrior / Effect,Starter Deck 2006,YSD-EN019,Ultra Rare,1.22,0.39,2.44,0.78,-0.01,0.07,-0.53,-0.49
+DP2-EN013,1,Armed Dragon LV10,monster,,wind,Dragon / Effect,Duelist Pack: Chazz Princeton,DP2-EN013,Ultra Rare,19.51,9.19,19.51,9.19,-0.06,-0.04,-0.33,-0.28
+SOD-EN008,1,Horus the Black Flame Dragon LV8,monster,,fire,Dragon / Effect,Soul of the Duelist,SOD-EN008,Ultra Rare,6.12,2.48,6.12,2.48,0.01,-0.1,-0.07,0.09
+DP2-EN012,1,Armed Dragon LV7,monster,,wind,Dragon / Effect,Duelist Pack: Chazz Princeton,DP2-EN012,Super Rare,3.31,0.79,3.31,0.79,0.15,0.13,0.06,0.15
+BLHR-EN089,1,Sky Striker Ace - Raye,monster,,dark,Warrior / Effect,Battles of Legend: Hero's Revenge,BLHR-EN089,Secret Rare,1.96,1.19,1.96,1.19,-0.07,-0.08,0.0,0.0
+BLHR-EN013,1,Apparition,trap,Normal,,,Battles of Legend: Hero's Revenge,BLHR-EN013,Ultra Rare,1.04,0.33,1.04,0.33,-0.02,0.01,0.0,0.0
+BLHR-EN073,1,Will of the Salamangreat,spell,Continuous,,,Battles of Legend: Hero's Revenge,BLHR-EN073,Ultra Rare,1.12,0.33,1.12,0.33,0.0,-0.01,0.0,0.0
+BLHR-EN003,1,Gold Moon Coin,spell,Normal,,,Battles of Legend: Hero's Revenge,BLHR-EN003,Ultra Rare,1.04,0.33,1.04,0.33,-0.01,0.35,0.0,0.0
+BLHR-EN011,1,Vision Release,spell,Normal,,,Battles of Legend: Hero's Revenge,BLHR-EN011,Ultra Rare,1.05,0.33,1.05,0.33,0.31,0.25,0.0,0.0
+BLHR-EN007,1,Vision HERO Increase,monster,,dark,Warrior / Effect,Battles of Legend: Hero's Revenge,BLHR-EN007,Secret Rare,9.95,6.46,9.95,6.46,-0.02,0.09,0.0,0.0
+BLHR-EN081,2,Shaddoll Hedgehog,monster,,dark,Spellcaster / Flip,Battles of Legend: Hero's Revenge,BLHR-EN081,Ultra Rare,1.12,0.33,2.24,0.66,0.01,0.03,0.0,0.0
+BLHR-EN085,1,Herald of the Arc Light,monster,,light,Fairy / Synchro,Battles of Legend: Hero's Revenge,BLHR-EN085,Ultra Rare,1.41,0.72,1.41,0.72,0.01,0.09,0.0,0.0
+BLHR-EN021,1,Miracle Stone,spell,Continuous,,,Battles of Legend: Hero's Revenge,BLHR-EN021,Ultra Rare,1.07,0.33,1.07,0.33,0.0,0.02,0.0,0.0
+BLHR-EN075,1,Guardian of Order,monster,,light,Warrior / Effect,Battles of Legend: Hero's Revenge,BLHR-EN075,Ultra Rare,1.07,0.33,1.07,0.33,0.0,0.02,0.0,0.0
+RIRA-EN020,1,"Simorgh, Bird of Protection",monster,,wind,Winged Beast / Effect,Rising Rampage,RIRA-EN020,Common,1.02,0.25,1.02,0.25,0.0,0.05,0.0,0.0
+RIRA-EN006,1,Dinowrestler Martial Ankylo,monster,,earth,Dinosaur / Effect,Rising Rampage,RIRA-EN006,Common,1.0,0.25,1.0,0.25,0.01,0.03,0.0,0.0
+RIRA-EN022,1,Simorgh of Darkness,monster,,dark,Winged Beast / Effect,Rising Rampage,RIRA-EN022,Super Rare,1.05,0.25,1.05,0.25,-0.01,-0.14,0.0,0.0
+RIRA-EN032,1,"Tlakalel, His Malevolent Majesty",monster,,dark,Fiend / Effect,Rising Rampage,RIRA-EN032,Rare,1.04,0.33,1.04,0.33,0.04,0.01,0.0,0.0
+RIRA-EN036,1,Megistric Maginician,monster,,fire,Spellcaster / Effect,Rising Rampage,RIRA-EN036,Common,0.96,0.25,0.96,0.25,-0.06,-0.04,0.0,0.0
+RIRA-EN007,1,Dinowrestler Rambrachio,monster,,earth,Dinosaur / Effect,Rising Rampage,RIRA-EN007,Common,0.97,0.25,0.97,0.25,0.0,-0.02,0.0,0.0
+RIRA-EN099,1,Rogue of Endymion,monster,,fire,Spellcaster / Effect,Rising Rampage,RIRA-EN099,Common,0.98,0.25,0.98,0.25,-0.04,0.02,0.0,0.0
+RIRA-EN025,1,Reptilianne Lamia,monster,,dark,Reptile / Tuner,Rising Rampage,RIRA-EN025,Common,1.01,0.25,1.01,0.25,0.0,0.02,0.0,0.0
+INCH-EN035,1,Evil Eye Confrontation,spell,Quick-Play,,,The Infinity Chasers,INCH-EN035,Super Rare,1.03,0.33,1.03,0.33,0.04,0.03,0.29,0.0
+INCH-EN010,1,Infinitrack Goliath,monster,,earth,Machine / Link,The Infinity Chasers,INCH-EN010,Super Rare,1.05,0.39,1.05,0.39,-0.01,0.0,0.33,0.0
+INCH-EN023,1,Witchcrafter Draping,spell,Quick-Play,,,The Infinity Chasers,INCH-EN023,Super Rare,1.05,0.33,1.05,0.33,-0.02,-0.01,0.28,0.0
+INCH-EN029,1,"Catoblepas, Familiar of the Evil Eye",monster,,dark,Fiend / Effect,The Infinity Chasers,INCH-EN029,Super Rare,1.03,0.33,1.03,0.33,-0.01,0.02,0.27,0.0
+INCH-EN031,1,"Zerrziel, Ruler of the Evil Eyed",monster,,dark,Fiend / Link,The Infinity Chasers,INCH-EN031,Secret Rare,1.12,0.49,1.12,0.49,0.0,0.11,0.03,0.0
+DUDE-EN001,1,Ghost Ogre & Snow Rabbit,monster,,light,Psychic / Tuner,Duel Devastator,DUDE-EN001,Ultra Rare,3.59,2.33,3.59,2.33,-0.04,-0.09,0.0,0.0
+DUDE-EN002,1,Ghost Reaper & Winter Cherries,monster,,dark,Zombie / Tuner,Duel Devastator,DUDE-EN002,Ultra Rare,1.24,0.5,1.24,0.5,0.0,0.0,0.0,0.0
+DUDE-EN003,1,Ash Blossom & Joyous Spring,monster,,fire,Zombie / Tuner,Duel Devastator,DUDE-EN003,Ultra Rare,6.67,5.49,6.67,5.49,-0.02,0.06,0.0,0.0
+DUDE-EN004,1,Ghost Belle & Haunted Mansion,monster,,earth,Zombie / Tuner,Duel Devastator,DUDE-EN004,Ultra Rare,3.03,1.69,3.03,1.69,-0.03,-0.06,0.0,0.0
+DUDE-EN005,1,Ghost Sister & Spooky Dogwood,monster,,water,Zombie / Tuner,Duel Devastator,DUDE-EN005,Ultra Rare,2.16,1.19,2.16,1.19,-0.0,-0.1,0.0,0.0
+DUDE-EN006,1,Red Blossoms from Underroot,monster,,dark,Fiend / Effect,Duel Devastator,DUDE-EN006,Ultra Rare,2.11,0.99,2.11,0.99,0.01,-0.18,0.0,0.0
+DUDE-EN007,1,Ally of Justice Catastor,monster,,dark,Machine / Synchro,Duel Devastator,DUDE-EN007,Ultra Rare,1.03,0.33,1.03,0.33,-0.03,0.01,0.0,0.0
+DUDE-EN008,1,"Brionac, Dragon of the Ice Barrier",monster,,water,Sea Serpent / Synchro,Duel Devastator,DUDE-EN008,Ultra Rare,1.09,0.33,1.09,0.33,0.0,0.01,0.0,0.0
+DUDE-EN009,1,Metaphys Horus,monster,,light,Wyrm / Synchro,Duel Devastator,DUDE-EN009,Ultra Rare,1.03,0.33,1.03,0.33,0.0,-0.01,0.0,0.0
+DUDE-EN010,1,Black Rose Dragon,monster,,fire,Dragon / Synchro,Duel Devastator,DUDE-EN010,Ultra Rare,1.08,0.33,1.08,0.33,-0.01,-0.05,0.0,0.0
+DUDE-EN011,1,Clear Wing Fast Dragon,monster,,wind,Dragon / Synchro,Duel Devastator,DUDE-EN011,Ultra Rare,1.06,0.33,1.06,0.33,0.01,0.0,0.0,0.0
+DUDE-EN012,1,Stardust Spark Dragon,monster,,light,Dragon / Synchro,Duel Devastator,DUDE-EN012,Ultra Rare,1.1,0.33,1.1,0.33,0.04,0.0,0.0,0.0
+DUDE-EN013,1,Scarlight Red Dragon Archfiend,monster,,dark,Dragon / Synchro,Duel Devastator,DUDE-EN013,Ultra Rare,1.12,0.33,1.12,0.33,0.03,0.38,0.0,0.0
+DUDE-EN014,1,"Trishula, Dragon of the Ice Barrier",monster,,water,Dragon / Synchro,Duel Devastator,DUDE-EN014,Ultra Rare,1.14,0.33,1.14,0.33,0.01,-0.04,0.0,0.0
+DUDE-EN015,1,Vermillion Dragon Mech,monster,,fire,Machine / Synchro,Duel Devastator,DUDE-EN015,Ultra Rare,1.04,0.33,1.04,0.33,-0.01,-0.01,0.0,0.0
+DUDE-EN016,1,Abyss Dweller,monster,,water,Sea Serpent / Xyz,Duel Devastator,DUDE-EN016,Ultra Rare,1.24,0.33,1.24,0.33,0.02,0.08,0.0,0.0
+DUDE-EN017,1,Number 101: Silent Honor ARK,monster,,water,Aqua / Xyz,Duel Devastator,DUDE-EN017,Ultra Rare,1.09,0.33,1.09,0.33,0.42,-0.01,0.0,0.0
+DUDE-EN018,1,"Castel, the Skyblaster Musketeer",monster,,wind,Winged Beast / Xyz,Duel Devastator,DUDE-EN018,Ultra Rare,1.05,0.33,1.05,0.33,0.0,0.0,0.0,0.0
+DUDE-EN019,1,Tornado Dragon,monster,,wind,Wyrm / Xyz,Duel Devastator,DUDE-EN019,Ultra Rare,1.13,0.33,1.13,0.33,-0.02,0.0,0.0,0.0
+DUDE-EN020,1,Underclock Taker,monster,,dark,Cyberse / Link,Duel Devastator,DUDE-EN020,Ultra Rare,1.04,0.33,1.04,0.33,-0.01,0.0,0.0,0.0
+DUDE-EN021,1,LANphorhynchus,monster,,light,Cyberse / Link,Duel Devastator,DUDE-EN021,Ultra Rare,1.09,0.33,1.09,0.33,-0.01,0.05,0.0,0.0
+DUDE-EN022,1,"Gaia Saber, the Lightning Shadow",monster,,earth,Machine / Link,Duel Devastator,DUDE-EN022,Ultra Rare,1.04,0.33,1.04,0.33,-0.02,0.0,0.0,0.0
+DUDE-EN023,1,Decode Talker,monster,,dark,Cyberse / Link,Duel Devastator,DUDE-EN023,Ultra Rare,1.06,0.33,1.06,0.33,0.02,0.04,0.0,0.0
+DUDE-EN024,1,Decode Talker Extended,monster,,dark,Cyberse / Link,Duel Devastator,DUDE-EN024,Ultra Rare,1.08,0.33,1.08,0.33,0.0,0.0,0.0,0.0
+DUDE-EN025,1,Topologic Bomber Dragon,monster,,dark,Cyberse / Link,Duel Devastator,DUDE-EN025,Ultra Rare,1.28,0.33,1.28,0.33,0.06,0.14,0.0,0.0
+DUDE-EN026,1,Saryuja Skull Dread,monster,,earth,Dragon / Link,Duel Devastator,DUDE-EN026,Ultra Rare,2.35,1.29,2.35,1.29,-0.05,-0.14,0.0,0.0
+DUDE-EN027,1,D.D. Crow,monster,,dark,Winged Beast / Effect,Duel Devastator,DUDE-EN027,Ultra Rare,1.19,0.45,1.19,0.45,0.03,-0.01,0.0,0.0
+DUDE-EN028,1,Effect Veiler,monster,,light,Spellcaster / Tuner,Duel Devastator,DUDE-EN028,Ultra Rare,2.71,1.47,2.71,1.47,0.01,0.0,0.0,0.0
+DUDE-EN029,1,Gate Blocker,monster,,earth,Rock / Effect,Duel Devastator,DUDE-EN029,Ultra Rare,1.03,0.33,1.03,0.33,0.0,0.03,0.0,0.0
+DUDE-EN030,1,Denko Sekka,monster,,light,Thunder / Effect,Duel Devastator,DUDE-EN030,Ultra Rare,1.55,0.66,1.55,0.66,0.01,-0.07,0.0,0.0
+DUDE-EN031,1,Inspector Boarder,monster,,light,Machine / Effect,Duel Devastator,DUDE-EN031,Ultra Rare,1.22,0.45,1.22,0.45,0.03,0.0,0.0,0.0
+DUDE-EN032,1,Spell Canceller,monster,,wind,Machine / Effect,Duel Devastator,DUDE-EN032,Ultra Rare,1.18,0.33,1.18,0.33,0.0,-0.05,0.0,0.0
+DUDE-EN033,1,Artifact Lancea,monster,,light,Fairy / Effect,Duel Devastator,DUDE-EN033,Ultra Rare,1.4,0.49,1.4,0.49,-0.03,0.09,0.0,0.0
+DUDE-EN034,1,Vanity's Fiend,monster,,dark,Fiend / Effect,Duel Devastator,DUDE-EN034,Ultra Rare,1.1,0.33,1.1,0.33,0.01,0.05,0.0,0.0
+DUDE-EN035,1,Majesty's Fiend,monster,,light,Fiend / Effect,Duel Devastator,DUDE-EN035,Ultra Rare,1.05,0.33,1.05,0.33,-0.01,0.0,0.0,0.0
+DUDE-EN036,1,Dinowrestler Pankratops,monster,,earth,Dinosaur / Effect,Duel Devastator,DUDE-EN036,Ultra Rare,1.3,0.53,1.3,0.53,0.01,0.1,0.0,0.0
+DUDE-EN037,1,"Gameciel, the Sea Turtle Kaiju",monster,,water,Aqua / Effect,Duel Devastator,DUDE-EN037,Ultra Rare,1.9,1.04,1.9,1.04,0.04,-0.01,0.0,0.0
+DUDE-EN038,1,Mind Control,spell,Normal,,,Duel Devastator,DUDE-EN038,Ultra Rare,2.34,1.29,2.34,1.29,-0.01,0.01,0.0,0.0
+DUDE-EN039,1,Wave-Motion Cannon,spell,Continuous,,,Duel Devastator,DUDE-EN039,Ultra Rare,1.25,0.9,1.25,0.9,-0.02,0.0,0.0,0.0
+DUDE-EN040,1,Super Polymerization,spell,Quick-Play,,,Duel Devastator,DUDE-EN040,Ultra Rare,6.08,5.25,6.08,5.25,0.05,0.11,0.0,0.0
+DUDE-EN041,1,Book of Eclipse,spell,Quick-Play,,,Duel Devastator,DUDE-EN041,Ultra Rare,1.07,0.33,1.07,0.33,-0.01,-0.01,0.0,0.0
+DUDE-EN042,1,Silent Graveyard,spell,Quick-Play,,,Duel Devastator,DUDE-EN042,Ultra Rare,1.03,0.33,1.03,0.33,-0.02,0.02,0.0,0.0
+DUDE-EN043,1,Cosmic Cyclone,spell,Quick-Play,,,Duel Devastator,DUDE-EN043,Ultra Rare,1.77,0.79,1.77,0.79,-0.06,0.06,0.0,0.0
+DUDE-EN044,1,Called by the Grave,spell,Quick-Play,,,Duel Devastator,DUDE-EN044,Ultra Rare,3.64,2.46,3.64,2.46,-0.01,0.13,0.0,0.0
+DUDE-EN045,1,Different Dimension Ground,trap,Normal,,,Duel Devastator,DUDE-EN045,Ultra Rare,1.1,0.33,1.1,0.33,0.02,0.07,0.0,0.0
+DUDE-EN046,1,Typhoon,trap,Normal,,,Duel Devastator,DUDE-EN046,Ultra Rare,1.29,0.49,1.29,0.49,0.0,-0.02,0.0,0.0
+DUDE-EN047,1,Forbidden Apocrypha,trap,Normal,,,Duel Devastator,DUDE-EN047,Ultra Rare,1.04,0.33,1.04,0.33,0.02,0.0,0.0,0.0
+DUDE-EN048,1,Dimensional Barrier,trap,Normal,,,Duel Devastator,DUDE-EN048,Ultra Rare,1.13,0.33,1.13,0.33,-0.02,0.0,0.0,0.0
+DUDE-EN049,1,Lost Wind,trap,Normal,,,Duel Devastator,DUDE-EN049,Ultra Rare,1.27,0.49,1.27,0.49,0.03,0.14,0.0,0.0
+DUDE-EN050,1,Heavy Storm Duster,trap,Normal,,,Duel Devastator,DUDE-EN050,Ultra Rare,1.24,0.33,1.24,0.33,0.06,0.01,0.0,0.0
+DUDE-EN051,1,Royal Decree,trap,Continuous,,,Duel Devastator,DUDE-EN051,Ultra Rare,1.04,0.33,1.04,0.33,0.0,0.0,0.0,0.0
+DUDE-EN052,1,Anti-Spell Fragrance,trap,Continuous,,,Duel Devastator,DUDE-EN052,Ultra Rare,1.27,0.49,1.27,0.49,0.01,-0.06,0.0,0.0
+DUDE-EN053,1,There Can Be Only One,trap,Continuous,,,Duel Devastator,DUDE-EN053,Ultra Rare,2.53,1.4,2.53,1.4,0.05,0.07,0.0,0.0
+DUDE-EN054,1,Wiretap,trap,Counter,,,Duel Devastator,DUDE-EN054,Ultra Rare,1.06,0.33,1.06,0.33,0.0,0.02,0.0,0.0
+DUDE-EN055,1,Solemn Strike,trap,Counter,,,Duel Devastator,DUDE-EN055,Ultra Rare,2.13,1.12,2.13,1.12,-0.01,-0.07,0.0,0.0
+DUDE-EN056,1,Red Reboot,trap,Counter,,,Duel Devastator,DUDE-EN056,Ultra Rare,1.21,0.42,1.21,0.42,0.07,-0.02,0.0,0.0
+TN19-EN008,1,Slifer the Sky Dragon,monster,,divine,Divine-Beast / Effect,2019 Gold Sarcophagus Tin,TN19-EN008,Prismatic Secret Rare,2.25,1.23,2.25,1.23,0.15,0.12,0.0,0.0
+LED5-EN034,3,Gimmick Puppet Gigantes Doll,monster,,dark,Machine / Xyz,Legendary Duelists: Immortal Destiny,LED5-EN034,Super Rare,1.28,0.5,3.84,1.5,-0.01,-0.03,0.0,0.0
+LED5-EN036,3,Gimmick Puppet Bisque Doll,monster,,dark,Machine / Effect,Legendary Duelists: Immortal Destiny,LED5-EN036,Super Rare,1.71,0.99,5.13,2.97,0.01,-0.12,0.0,0.0
+DRLG-EN025,1,Mound of the Bound Creator,spell,Field,,,Dragons of Legend,DRLG-EN025,Secret Rare,4.45,2.29,4.45,2.29,-0.05,-0.15,0.03,0.12
+AST-037,1,Enemy Controller,spell,Quick-Play,,,Ancient Sanctuary,AST-037,Ultra Rare,9.66,2.62,9.66,2.62,0.05,-0.01,0.8,0.33
+LCJW-EN287,1,Super Rejuvenation,spell,Quick-Play,,,Legendary Collection 4: Joey's World Mega Pack,LCJW-EN287,Super Rare,4.88,2.39,4.88,2.39,-0.06,-0.12,0.72,1.21
+DRLG-EN030,1,Black Sonic,trap,Normal,,,Dragons of Legend,DRLG-EN030,Secret Rare,8.12,6.0,8.12,6.0,0.04,0.27,0.41,0.21
+NECH-EN051,1,"Yazi, Evil of the Yang Zing",monster,,dark,Wyrm / Synchro,The New Challengers,NECH-EN051,Secret Rare,8.22,4.95,8.22,4.95,-0.0,0.29,-0.05,1.09
+SECE-EN051,1,Stellarknight Constellar Diamond,monster,,light,Wyrm / Xyz,Secrets of Eternity,SECE-EN051,Ultra Rare,1.85,0.99,1.85,0.99,-0.01,0.02,0.09,0.11
+PGLD-EN067,1,Mind Control,spell,Normal,,,Premium Gold,PGLD-EN067,Gold Rare,4.74,1.49,4.74,1.49,-0.02,-0.1,-0.12,0.12
+PGLD-EN075,1,Thunder King Rai-Oh,monster,,light,Thunder / Effect,Premium Gold,PGLD-EN075,Gold Rare,4.24,2.49,4.24,2.49,0.01,0.03,-0.49,-0.22
+BPT-007,1,Dark Magician,monster,,dark,Spellcaster / Normal,Collectible Tins 2003,BPT-007,Secret Rare,8.94,2.49,8.94,2.49,0.28,0.11,0.12,0.38
+RDS-EN012,2,Perfect Machine King,monster,,earth,Machine / Effect,Rise of Destiny,RDS-EN012,Ultra Rare,5.1,2.96,10.2,5.92,0.15,0.14,0.21,0.01
+PP01-EN009,1,Legacy of Yata-Garasu,trap,Normal,,,Premium Pack (TCG),PP01-EN009,Super Rare,1.27,0.39,1.27,0.39,0.02,-0.36,0.12,0.21
+IOC-094,1,Dimension Fusion,spell,Normal,,,Invasion of Chaos,IOC-094,Ultra Rare,20.88,10.99,20.88,10.99,0.08,-0.01,-0.15,0.65
+DBT-EN002,1,D.D. Assailant,monster,,earth,Warrior / Effect,Yu-Gi-Oh! Destiny Board Traveler promotional cards,DBT-EN002,Super Rare,4.41,1.69,4.41,1.69,-0.0,-0.0,0.01,0.27
+DR1-EN211,1,Skill Drain,trap,Continuous,,,Dark Revelation Volume 1,DR1-EN211,Rare,6.07,3.06,6.07,3.06,0.0,-0.01,-0.21,-0.29
+EDS-001,1,Exchange,spell,Normal,,,Yu-Gi-Oh! The Eternal Duelist Soul promotional cards,EDS-001,Prismatic Secret Rare,6.93,2.99,6.93,2.99,-0.04,-0.04,1.08,-0.38
+LC03-EN002,1,Dark Necrofear,monster,,dark,Fiend / Effect,Legendary Collection 3: Yugi's World,LC03-EN002,Ultra Rare,1.44,0.39,1.44,0.39,-0.02,0.01,-0.47,0.27
+DB2-EN228,1,Don Zaloog,monster,,dark,Warrior / Effect,Dark Beginning 2,DB2-EN228,Super Rare,3.93,2.99,3.93,2.99,-0.02,0.15,-0.85,0.97
+DRLG-EN027,2,Blackwing - Oroshi the Squall,monster,,dark,Winged Beast / Tuner,Dragons of Legend,DRLG-EN027,Super Rare,1.39,0.35,2.78,0.7,0.14,-0.03,0.1,-0.01
+DRLG-EN029,3,Blackwing - Hurricane the Tornado,monster,,dark,Winged Beast / Tuner,Dragons of Legend,DRLG-EN029,Super Rare,1.07,0.35,3.21,1.05,-0.01,-0.01,0.18,0.15
+DRLG-EN048,1,Prominence Hand,monster,,fire,Pyro / Effect,Dragons of Legend,DRLG-EN048,Super Rare,1.03,0.49,1.03,0.49,0.01,0.0,0.07,0.0
+PGLD-EN073,1,Mezuki,monster,,earth,Zombie / Effect,Premium Gold,PGLD-EN073,Gold Rare,3.11,0.89,3.11,0.89,0.04,0.04,0.02,-0.19
+PGLD-EN004,1,Big Belly Knight,monster,,earth,Warrior / Effect,Premium Gold,PGLD-EN004,Gold Secret Rare,1.09,0.35,1.09,0.35,0.0,-0.01,-0.11,-0.29
+LC01-EN005,1,Dark Magician,monster,,dark,Spellcaster / Normal,Legendary Collection,LC01-EN005,Ultra Rare,2.36,0.39,2.36,0.39,0.1,0.19,0.65,0.65
+PGLD-EN084,1,Chaos Sorcerer,monster,,dark,Spellcaster / Effect,Premium Gold,PGLD-EN084,Gold Rare,3.18,0.89,3.18,0.89,-0.05,-0.1,-0.11,-0.06
+PGLD-EN054,1,"Goldd, Wu-Lord of Dark World",monster,,dark,Fiend / Effect,Premium Gold,PGLD-EN054,Gold Rare,1.46,0.86,1.46,0.86,0.01,0.0,-0.34,0.07
+SYE-001,4,Dark Magician,monster,,dark,Spellcaster / Normal,Starter Deck: Yugi Evolution,SYE-001,Super Rare,1.22,0.49,4.88,1.96,0.0,0.0,-0.39,-0.67
+PGL2-EN080,1,Blue-Eyes White Dragon,monster,,light,Dragon / Normal,Premium Gold: Return of the Bling,PGL2-EN080,Gold Rare,1.97,0.69,1.97,0.69,-0.01,-0.01,-0.12,0.2
+FL1-EN001,1,Blue-Eyes White Dragon,monster,,light,Dragon / Normal,Forbidden Legacy,FL1-EN001,Secret Rare,3.88,2.76,3.88,2.76,-0.02,0.06,-0.08,-0.09
+PGLD-EN088,1,"Tytannial, Princess of Camellias",monster,,wind,Plant / Effect,Premium Gold,PGLD-EN088,Gold Rare,1.31,0.39,1.31,0.39,0.02,0.03,-0.22,-0.12
+LC01-EN006,1,Red-Eyes B. Dragon,monster,,dark,Dragon / Normal,Legendary Collection,LC01-EN006,Ultra Rare,2.95,0.79,2.95,0.79,0.16,0.08,-0.05,-0.08
+LVAL-EN039,1,"ChirubimÃ©, Princess of Autumn Leaves",monster,,earth,Plant / Effect,Legacy of the Valiant,LVAL-EN039,Super Rare,2.13,1.26,2.13,1.26,0.28,0.39,0.88,0.72
+PGLD-EN011,1,Gimmick Puppet Humpty Dumpty,monster,,dark,Machine / Effect,Premium Gold,PGLD-EN011,Gold Secret Rare,2.14,0.49,2.14,0.49,-0.55,0.49,0.56,0.66
+SDCR-EN037,1,Cyber Twin Dragon,monster,,light,Machine / Fusion,Cyber Dragon Revolution Structure Deck,SDCR-EN037,Ultra Rare,1.18,0.35,1.18,0.35,-0.01,-0.42,0.04,-0.1
+CRV-EN034,1,UFOroid Fighter,monster,,light,Machine / Fusion,Cybernetic Revolution,CRV-EN034,Ultra Rare,3.27,0.69,3.27,0.69,-0.01,-0.01,-0.21,-0.27
+PGLD-EN083,1,Spirit Reaper,monster,,dark,Zombie / Effect,Premium Gold,PGLD-EN083,Gold Rare,1.92,0.3,1.92,0.3,0.13,0.24,0.14,0.24
+SHSP-EN089,1,Sinister Yorishiro,trap,Continuous,,,Shadow Specters,SHSP-EN089,Ultra Rare,1.35,0.49,1.35,0.49,-0.05,0.06,0.09,0.1
+PGLD-EN066,1,Caius the Shadow Monarch,monster,,dark,Fiend / Effect,Premium Gold,PGLD-EN066,Gold Rare,1.64,0.49,1.64,0.49,0.01,0.01,0.12,-0.37
+PGLD-EN074,1,Plaguespreader Zombie,monster,,dark,Zombie / Tuner,Premium Gold,PGLD-EN074,Gold Rare,1.58,0.49,1.58,0.49,0.0,-0.01,-0.12,-0.3
+PP01-EN007,1,Shield Crush,spell,Normal,,,Premium Pack (TCG),PP01-EN007,Secret Rare,1.1,0.39,1.1,0.39,-0.01,0.0,-0.02,-0.02
+PGLD-EN053,1,Cyber Dragon,monster,,light,Machine / Effect,Premium Gold,PGLD-EN053,Gold Rare,2.22,1.09,2.22,1.09,-0.04,-0.05,-0.13,-0.03
+PGLD-EN040,1,Darkflare Dragon,monster,,dark,Dragon / Effect,Premium Gold,PGLD-EN040,Gold Rare,1.35,0.49,1.35,0.49,0.0,-0.18,-0.15,-0.19
+PGLD-EN052,1,Breaker the Magical Warrior,monster,,dark,Spellcaster / Effect,Premium Gold,PGLD-EN052,Gold Rare,1.98,0.69,1.98,0.69,-0.36,-0.07,0.1,0.01
+SKE-041,1,Shadow Spell,trap,Continuous,,,Starter Deck: Kaiba Evolution,SKE-041,Super Rare,1.06,0.39,1.06,0.39,0.08,0.12,0.12,-0.32
+PGLD-EN039,1,Lightpulsar Dragon,monster,,light,Dragon / Effect,Premium Gold,PGLD-EN039,Gold Rare,2.84,0.49,2.84,0.49,0.05,0.0,0.01,-0.07
+SDCR-EN002,1,Cyber Dragon Drei,monster,,light,Machine / Effect,Cyber Dragon Revolution Structure Deck,SDCR-EN002,Super Rare,1.29,0.59,1.29,0.59,0.02,-0.02,-0.4,-0.44
+PGLD-EN043,1,Colossal Fighter,monster,,dark,Warrior / Synchro,Premium Gold,PGLD-EN043,Gold Rare,1.23,0.39,1.23,0.39,-0.01,0.01,-0.19,-0.12
+SDCR-EN038,1,Cyber Dragon Nova,monster,,light,Machine / Xyz,Cyber Dragon Revolution Structure Deck,SDCR-EN038,Ultra Rare,2.95,0.69,2.95,0.69,0.24,0.29,-0.1,-0.23
+DRLG-EN012,1,Reaper Scythe - Dreadscythe,spell,Equip,,,Dragons of Legend,DRLG-EN012,Super Rare,1.11,0.3,1.11,0.3,-0.01,-0.01,-0.02,0.07
+EDS-003,1,Skull Dice,trap,Normal,,,Yu-Gi-Oh! The Eternal Duelist Soul promotional cards,EDS-003,Prismatic Secret Rare,4.3,1.59,4.3,1.59,0.0,0.34,-0.08,-0.08
+RYMP-EN072,1,Yubel - The Ultimate Nightmare,monster,,dark,Fiend / Effect,Ra Yellow Mega Pack,RYMP-EN072,Rare,4.01,1.33,4.01,1.33,0.02,0.33,0.25,-0.47
+RYMP-EN070,1,Yubel,monster,,dark,Fiend / Effect,Ra Yellow Mega Pack,RYMP-EN070,Rare,5.75,3.07,5.75,3.07,0.19,0.22,0.07,0.42
+SD4-EN001,3,Ocean Dragon Lord - Neo-Daedalus,monster,,water,Sea Serpent / Effect,Structure Deck: Fury from the Deep,SD4-EN001,Ultra Rare,1.54,0.79,4.62,2.37,-0.03,-0.05,-0.38,-0.16
+DB1-EN214,1,The Masked Beast,monster,,dark,Fiend / Ritual,Dark Beginning 1,DB1-EN214,Super Rare,1.43,0.89,1.43,0.89,-0.01,0.01,-0.09,-0.19
+PGD-033,1,Book of Life,spell,Normal,,,Pharaonic Guardian,PGD-033,Super Rare,2.79,1.35,2.79,1.35,0.02,-0.03,0.18,-0.18
+PP01-EN013,1,Javelin Beetle,monster,,earth,Insect / Ritual,Premium Pack (TCG),PP01-EN013,Super Rare,1.05,0.3,1.05,0.3,0.0,0.0,0.01,-0.29
+FOTB-EN022,1,Sky Scourge Norleras,monster,,dark,Fiend / Effect,Force of the Breaker,FOTB-EN022,Super Rare,2.11,1.44,2.11,1.44,-0.05,-0.06,-0.15,-0.08
+DR1-EN017,1,Mystical Knight of Jackal,monster,,light,Beast-Warrior / Effect,Dark Revelation Volume 1,DR1-EN017,Super Rare,3.91,2.27,3.91,2.27,-0.03,0.09,0.33,0.24
+SDJ-041,1,Scapegoat,spell,Quick-Play,,,Starter Deck: Joey,SDJ-041,Super Rare,1.8,0.39,1.8,0.39,0.0,0.04,-0.42,-0.42
+CT1-EN001,1,Total Defense Shogun,monster,,dark,Warrior / Effect,Collectible Tins 2004,CT1-EN001,Secret Rare,5.55,1.09,5.55,1.09,0.03,0.25,0.46,0.49
+EDS-002,2,Graceful Dice,spell,Quick-Play,,,Yu-Gi-Oh! The Eternal Duelist Soul promotional cards,EDS-002,Prismatic Secret Rare,3.62,2.09,7.24,4.18,-0.1,-0.07,-0.18,0.05
+EDS-003,1,Skull Dice,trap,Normal,,,Yu-Gi-Oh! The Eternal Duelist Soul promotional cards,EDS-003,Prismatic Secret Rare,4.3,1.59,4.3,1.59,0.0,0.34,-0.08,-0.08
+SD6-EN001,1,Dark Eradicator Warlock,monster,,dark,Spellcaster / Effect,Structure Deck: Spellcaster's Judgment,SD6-EN001,Ultra Rare,2.36,0.69,2.36,0.69,-0.0,-0.02,-0.22,-0.14
+SDRL-EN001,1,Felgrand Dragon,monster,,light,Dragon / Effect,Rise of the Dragon Lords Structure Deck,SDRL-EN001,Ultra Rare,1.5,0.49,1.5,0.49,-0.01,0.03,0.16,0.01
+EP1-EN002,1,Andro Sphinx,monster,,light,Beast / Effect,Exclusive Pack,EP1-EN002,Ultra Rare,1.19,0.39,1.19,0.39,0.0,0.12,-0.08,-0.01
+DBT-EN001,1,Emes the Infinity,monster,,light,Machine / Effect,Yu-Gi-Oh! Destiny Board Traveler promotional cards,DBT-EN001,Super Rare,7.14,0.39,7.14,0.39,0.02,0.08,4.1,3.52
+CRV-EN020,1,Goblin Elite Attack Force,monster,,earth,Fiend / Effect,Cybernetic Revolution,CRV-EN020,Super Rare,1.18,0.3,1.18,0.3,0.04,0.01,0.16,0.05
+FET-EN009,1,Granmarg the Rock Monarch,monster,,earth,Rock / Effect,Flaming Eternity,FET-EN009,Super Rare,1.67,0.35,1.67,0.35,-0.11,-0.01,-0.09,0.0
+AST-101,1,The First Sarcophagus,trap,Continuous,,,Ancient Sanctuary,AST-101,Super Rare,1.14,0.39,1.14,0.39,-0.13,-0.01,-0.09,0.19
+CRV-EN015,1,Cyber Dragon,monster,,light,Machine / Effect,Cybernetic Revolution,CRV-EN015,Super Rare,3.8,0.99,3.8,0.99,0.1,0.13,0.56,0.56
+DP1-EN006,1,Winged Kuriboh LV10,monster,,light,Fairy / Effect,Duelist Pack: Jaden Yuki,DP1-EN006,Rare,3.44,2.25,3.44,2.25,0.0,0.04,0.06,-0.14
+CT1-EN003,1,Command Knight,monster,,fire,Warrior / Effect,Collectible Tins 2004,CT1-EN003,Secret Rare,3.42,0.99,3.42,0.99,-0.24,-0.31,-0.19,-0.11
+IOC-047,1,Big Burn,trap,Normal,,,Invasion of Chaos,IOC-047,Super Rare,1.52,0.59,1.52,0.59,0.0,0.09,0.03,-0.35
+SDP-040,1,Graceful Charity,spell,Normal,,,Starter Deck: Pegasus,SDP-040,Super Rare,3.44,1.58,3.44,1.58,-0.03,-0.02,0.13,-0.01
+DPK-ENSE1,1,Blockman,monster,,earth,Rock / Effect,Duelist Pack: Special Edition,DPK-ENSE1,Secret Rare,7.28,0.39,7.28,0.39,0.06,0.09,1.71,2.79
+SDJ-022,2,Penguin Soldier,monster,,water,Aqua / Effect,Starter Deck: Joey,SDJ-022,Super Rare,1.16,0.39,2.32,0.78,0.01,0.02,-0.15,-0.29
+RDS-EN039,1,Triangle Ecstasy Spark,spell,Normal,,,Rise of Destiny,RDS-EN039,Super Rare,1.15,0.3,1.15,0.3,0.0,0.0,0.13,0.19
+SD2-EN001,1,Vampire Genesis,monster,,dark,Zombie / Effect,Structure Deck: Zombie Madness,SD2-EN001,Ultra Rare,1.28,1.0,1.28,1.0,0.15,-0.05,-0.2,-0.02
+CT2-EN001,2,Gilford the Lightning,monster,,light,Warrior / Effect,Collectible Tins 2005,CT2-EN001,Secret Rare,5.85,2.99,11.7,5.98,-0.03,-0.05,-0.16,0.15
+SD5-EN001,1,Gilford the Legend,monster,,earth,Warrior / Effect,Structure Deck: Warrior's Triumph,SD5-EN001,Ultra Rare,1.22,0.35,1.22,0.35,0.02,0.03,-0.55,-0.07
+TLM-ENSE4,1,The End of Anubis,monster,,dark,Fiend / Effect,The Lost Millennium: Special Edition,TLM-ENSE4,Ultra Rare,6.06,0.49,6.06,0.49,0.85,0.97,1.77,0.73
+SDP-001,1,Relinquished,monster,,dark,Spellcaster / Ritual,Starter Deck: Pegasus,SDP-001,Ultra Rare,1.54,0.39,1.54,0.39,0.03,-0.58,-0.65,-0.54
+MC1-EN006,1,Dark Ruler Ha Des,monster,,dark,Fiend / Effect,Master Collection Volume 1,MC1-EN006,Secret Rare,4.01,0.69,4.01,0.69,0.01,0.51,0.35,0.23
+TLM-ENSE1,1,Invader of Darkness,monster,,dark,Fiend / Effect,The Lost Millennium: Special Edition,TLM-ENSE1,Ultra Rare,4.24,0.3,4.24,0.3,-0.04,-0.08,0.54,0.44
+SD3-EN001,1,Infernal Flame Emperor,monster,,fire,Pyro / Effect,Structure Deck: Blaze of Destruction,SD3-EN001,Ultra Rare,1.14,0.49,1.14,0.49,0.02,0.01,0.03,-0.54
+STON-ENSE1,1,Cyber End Dragon,monster,,light,Machine / Fusion,Strike of Neos: Special Edition,STON-ENSE1,Super Rare,3.26,0.59,3.26,0.59,0.01,-0.0,0.02,-0.18
+DL4-001,1,Machine King,monster,,earth,Machine / Effect,Duelist League Series 4 participation card,DL4-001,Super Rare,2.23,0.3,2.23,0.3,0.0,0.04,-0.12,0.12
+CT2-EN002,2,Exarion Universe,monster,,dark,Beast-Warrior / Effect,Collectible Tins 2005,CT2-EN002,Secret Rare,3.09,1.6,6.18,3.2,-0.0,-0.07,-0.28,-0.52
+PP01-EN012,1,Javelin Beetle Pact,spell,Ritual,,,Premium Pack (TCG),PP01-EN012,Super Rare,1.04,0.3,1.04,0.3,0.0,0.01,-0.13,-0.15
+PGLD-EN018,1,Number C6: Chronomaly Chaos Atlandis,monster,,light,Machine / Xyz,Premium Gold,PGLD-EN018,Gold Secret Rare,1.61,0.49,1.61,0.49,0.07,-0.1,0.29,0.12
+5DS3-EN039,1,Junk Destroyer,monster,,earth,Warrior / Synchro,Starter Deck: Duelist Toolbox,5DS3-EN039,Ultra Rare,1.62,0.44,1.62,0.44,-0.04,-0.01,-0.07,-0.05
+DRLG-EN032,1,Shadow Impulse,trap,Normal,,,Dragons of Legend,DRLG-EN032,Super Rare,1.07,0.39,1.07,0.39,0.0,0.0,0.05,-0.4
+DRLG-EN046,1,Fire Hand,monster,,fire,Pyro / Effect,Dragons of Legend,DRLG-EN046,Secret Rare,1.45,0.39,1.45,0.39,-0.03,-0.09,-0.44,-0.17
+DRLG-EN036,1,Lionhearted Locomotive,monster,,earth,Machine / Effect,Dragons of Legend,DRLG-EN036,Super Rare,1.08,0.3,1.08,0.3,-0.02,-0.01,0.06,0.2
+DRLG-EN050,1,Lillybot,monster,,light,Machine / Effect,Dragons of Legend,DRLG-EN050,Super Rare,1.06,0.3,1.06,0.3,-0.01,0.0,-0.49,0.15
+5DS3-EN005,1,Synchron Explorer,monster,,earth,Machine / Effect,Starter Deck: Duelist Toolbox,5DS3-EN005,Super Rare,1.16,0.3,1.16,0.3,0.0,0.0,0.17,-0.31
+FOTB-EN037,1,Lucky Iron Axe,spell,Equip,,,Force of the Breaker,FOTB-EN037,Rare,1.04,0.34,1.04,0.34,0.0,-0.03,-0.09,-0.09
+DP03-EN025,1,Light Laser,spell,Equip,,,Duelist Pack: Jaden Yuki 2,DP03-EN025,Super Rare,1.09,0.3,1.09,0.3,0.0,0.01,0.12,0.17
+DRLG-EN020,1,Ayers Rock Sunrise,spell,Normal,,,Dragons of Legend,DRLG-EN020,Super Rare,1.18,0.39,1.18,0.39,-0.02,-0.06,0.05,-0.4
+PGLD-EN050,2,Fire Formation - Tenki,spell,Continuous,,,Premium Gold,PGLD-EN050,Gold Rare,2.41,0.69,4.82,1.38,0.0,0.03,-0.14,0.14
+DRLG-EN015,1,Sabatiel - The Philosopher's Stone,spell,Normal,,,Dragons of Legend,DRLG-EN015,Super Rare,1.06,0.25,1.06,0.25,0.0,0.0,1.41,0.19
+DRLG-EN012,1,Reaper Scythe - Dreadscythe,spell,Equip,,,Dragons of Legend,DRLG-EN012,Super Rare,1.11,0.3,1.11,0.3,-0.01,-0.01,-0.02,0.07
+PSV-063,1,Fairy Meteor Crush,spell,Equip,,,Pharaoh's Servant,PSV-063,Super Rare,1.17,0.3,1.17,0.3,0.02,0.0,-0.5,-0.49
+SDCR-EN001,1,Cyber Dragon Core,monster,,light,Machine / Effect,Cyber Dragon Revolution Structure Deck,SDCR-EN001,Super Rare,2.58,1.68,2.58,1.68,0.09,-0.18,-0.28,-0.46
+DRLG-EN048,2,Prominence Hand,monster,,fire,Pyro / Effect,Dragons of Legend,DRLG-EN048,Super Rare,1.03,0.49,2.06,0.98,0.01,0.0,0.07,0.0
+5DS3-EN004,1,Rapid Warrior,monster,,wind,Warrior / Effect,Starter Deck: Duelist Toolbox,5DS3-EN004,Super Rare,1.07,0.44,1.07,0.44,0.02,0.03,0.18,-0.36
+NTR-EN002,1,Silent Magician LV8,monster,,light,Spellcaster / Effect,Yu-Gi-Oh! Nightmare Troubadour promotional cards,NTR-EN002,Super Rare,4.35,0.89,4.35,0.89,0.03,-0.09,0.27,0.0
+SRL-EN026,1,Invader of the Throne,monster,,earth,Warrior / Effect,Spell Ruler,SRL-EN026,Super Rare,3.69,1.99,3.69,1.99,0.0,0.02,0.69,0.06
+PGLD-EN013,1,Silent Wobby,monster,,water,Fish / Effect,Premium Gold,PGLD-EN013,Gold Secret Rare,1.25,0.69,1.25,0.69,0.02,0.04,-0.46,-0.36
+SKE-015,1,Kaiser Sea Horse,monster,,light,Sea Serpent / Effect,Starter Deck: Kaiba Evolution,SKE-015,Ultra Rare,1.09,0.35,1.09,0.35,0.01,0.01,-0.11,0.11
+PGLD-EN004,1,Big Belly Knight,monster,,earth,Warrior / Effect,Premium Gold,PGLD-EN004,Gold Secret Rare,1.09,0.35,1.09,0.35,0.0,-0.01,-0.11,-0.29
+PGLD-EN041,2,Eclipse Wyvern,monster,,light,Dragon / Effect,Premium Gold,PGLD-EN041,Gold Rare,2.07,0.39,4.14,0.78,0.01,-0.06,-0.26,-0.35
+PGLD-EN090,1,Trap Stun,trap,Normal,,,Premium Gold,PGLD-EN090,Gold Rare,1.52,0.39,1.52,0.39,0.02,-0.03,-0.07,0.08
+PGLD-EN026,2,Tri-Edge Levia,monster,,water,Sea Serpent / Xyz,Premium Gold,PGLD-EN026,Gold Secret Rare,1.32,0.35,2.64,0.7,0.01,0.0,-0.06,-0.1
+PGLD-EN056,1,Chimeratech Overdragon,monster,,dark,Machine / Fusion,Premium Gold,PGLD-EN056,Gold Rare,2.07,0.39,2.07,0.39,-0.04,-0.11,-0.27,-0.33
+PGLD-EN043,2,Colossal Fighter,monster,,dark,Warrior / Synchro,Premium Gold,PGLD-EN043,Gold Rare,1.23,0.39,2.46,0.78,-0.01,0.01,-0.19,-0.12
+NECH-ENS14,1,CXyz Barian Hope,monster,,light,Warrior / Xyz,The New Challengers: Super Edition,NECH-ENS14,Super Rare,0.96,0.33,0.96,0.33,0.25,0.25,-0.23,-0.21
+NUMH-EN046,1,CXyz Skypalace Babylon,monster,,wind,Machine / Xyz,Number Hunters,NUMH-EN046,Secret Rare,1.1,0.35,1.1,0.35,-0.02,-0.04,0.08,0.02
+PGLD-EN078,1,Blackwing Armed Wing,monster,,dark,Winged Beast / Synchro,Premium Gold,PGLD-EN078,Gold Rare,1.21,0.3,1.21,0.3,0.03,-0.01,-0.15,-0.12
+PGLD-EN017,1,Blackfeather Darkrage Dragon,monster,,dark,Dragon / Synchro,Premium Gold,PGLD-EN017,Gold Secret Rare,1.87,0.3,1.87,0.3,0.03,0.01,-0.01,0.09
+PGLD-EN078,1,Blackwing Armed Wing,monster,,dark,Winged Beast / Synchro,Premium Gold,PGLD-EN078,Gold Rare,1.21,0.3,1.21,0.3,0.03,-0.01,-0.15,-0.12
+NUMH-EN044,1,CXyz Battleship Cherry Blossom,monster,,earth,Plant / Xyz,Number Hunters,NUMH-EN044,Secret Rare,1.13,0.35,1.13,0.35,0.03,0.03,-0.06,-0.1
+LC01-EN003,1,The Winged Dragon of Ra (original),monster,,divine,Divine-Beast,Legendary Collection,LC01-EN003,Ultra Rare,4.52,2.29,4.52,2.29,-0.06,-0.21,-0.39,-0.41
+LC01-EN002,1,Slifer the Sky Dragon (original),monster,,divine,Divine-Beast,Legendary Collection,LC01-EN002,Ultra Rare,7.63,2.49,7.63,2.49,0.04,0.06,0.53,0.42
+LC01-EN001,1,Obelisk the Tormentor (original),monster,,divine,Divine-Beast,Legendary Collection,LC01-EN001,Ultra Rare,3.73,2.0,3.73,2.0,0.04,-0.52,-0.12,-0.16
+PGLD-EN081,1,Morphing Jar,monster,,earth,Rock / Effect,Premium Gold,PGLD-EN081,Gold Rare,3.09,1.99,3.09,1.99,-0.0,-0.12,-0.02,0.06
+PGLD-EN080,1,Icarus Attack,trap,Normal,,,Premium Gold,PGLD-EN080,Gold Rare,1.71,0.3,1.71,0.3,0.04,0.03,0.05,0.09
+EP1-EN003,1,Sphinx Teleia,monster,,light,Beast / Effect,Exclusive Pack,EP1-EN003,Ultra Rare,3.11,0.49,3.11,0.49,0.2,0.13,0.21,0.15
+EP1-EN002,1,Andro Sphinx,monster,,light,Beast / Effect,Exclusive Pack,EP1-EN002,Ultra Rare,1.19,0.39,1.19,0.39,0.0,0.12,-0.08,-0.01
+EP1-EN001,1,Theinen the Great Sphinx,monster,,light,Beast / Effect,Exclusive Pack,EP1-EN001,Ultra Rare,3.06,0.49,3.06,0.49,0.11,0.15,-0.01,0.11
+PGLD-EN065,1,Prime Material Dragon,monster,,light,Dragon / Effect,Premium Gold,PGLD-EN065,Gold Rare,1.6,0.3,1.6,0.3,0.03,0.02,-0.25,-0.11
+BP03-EN032,1,Evil HERO Infernal Gainer,monster,,earth,Fiend / Effect,Battle Pack 3: Monster League,BP03-EN032,Common,1.73,0.3,1.73,0.3,0.01,0.48,0.38,0.34
+PGLD-EN064,1,Dark Armed Dragon,monster,,dark,Dragon / Effect,Premium Gold,PGLD-EN064,Gold Rare,3.59,1.97,3.59,1.97,-0.01,0.02,0.22,0.83
+MC1-EN006,1,Dark Ruler Ha Des,monster,,dark,Fiend / Effect,Master Collection Volume 1,MC1-EN006,Secret Rare,4.01,0.69,4.01,0.69,0.01,0.51,0.35,0.23
+PGLD-EN054,1,"Goldd, Wu-Lord of Dark World",monster,,dark,Fiend / Effect,Premium Gold,PGLD-EN054,Gold Rare,1.46,0.86,1.46,0.86,0.01,0.0,-0.34,0.07
+PGD-015,1,Sasuke Samurai #2,monster,,wind,Warrior / Effect,Pharaonic Guardian,PGD-015,Super Rare,1.29,0.49,1.29,0.49,0.02,0.01,-0.12,-0.15
+SOD-EN038,1,Hammer Shot,spell,Normal,,,Soul of the Duelist,SOD-EN038,Rare,1.27,0.3,1.27,0.3,-0.05,0.03,0.07,0.05
+POTD-EN043,1,Cyclone Blade,spell,Equip,,,Power of the Duelist,POTD-EN043,Rare,1.04,0.3,1.04,0.3,-0.07,0.01,0.05,-0.03
+POTD-EN008,1,Submarineroid,monster,,water,Machine / Effect,Power of the Duelist,POTD-EN008,Rare,1.11,0.3,1.11,0.3,-0.01,-0.01,1.27,0.1
+SDY-041,1,Soul Exchange,spell,Normal,,,Starter Deck: Yugi,SDY-041,Super Rare,1.14,0.39,1.14,0.39,0.0,-0.57,-0.39,-0.02
+MFC-004,1,X-Head Cannon,monster,,light,Machine / Normal,Magician's Force,MFC-004,Super Rare,2.26,0.69,2.26,0.69,0.01,0.0,-0.28,-0.13
+IOC-012,1,D.D. Scout Plane,monster,,dark,Machine / Effect,Invasion of Chaos,IOC-012,Super Rare,1.36,0.49,1.36,0.49,-0.07,0.08,0.21,0.02
+SD3-EN001,1,Infernal Flame Emperor,monster,,fire,Pyro / Effect,Structure Deck: Blaze of Destruction,SD3-EN001,Ultra Rare,1.14,0.49,1.14,0.49,0.02,0.01,0.03,-0.54
+EOJ-EN011,1,Victory Viper XX03,monster,,light,Machine / Effect,Enemy of Justice,EOJ-EN011,Super Rare,1.14,0.3,1.14,0.3,0.0,-0.01,0.49,0.41
+AST-107,1,Des Counterblow,trap,Continuous,,,Ancient Sanctuary,AST-107,Super Rare,1.57,0.39,1.57,0.39,0.03,-0.08,-0.1,-0.01
+SYE-025,1,Black Luster Ritual,spell,Ritual,,,Starter Deck: Yugi Evolution,SYE-025,Super Rare,1.19,0.49,1.19,0.49,0.0,-0.06,-0.35,-0.43
+DP2-EN025,1,Inferno Reckless Summon,spell,Quick-Play,,,Duelist Pack: Chazz Princeton,DP2-EN025,Super Rare,2.88,1.72,2.88,1.72,-0.02,-0.05,-0.17,-0.26
+EOJ-EN048,1,Clock Tower Prison,spell,Field,,,Enemy of Justice,EOJ-EN048,Super Rare,2.46,1.99,2.46,1.99,-0.01,-0.07,0.02,-0.16
+TLM-EN010,1,Ultimate Insect LV7,monster,,wind,Insect / Effect,The Lost Millennium,TLM-EN010,Super Rare,1.67,0.35,1.67,0.35,-0.03,-0.03,0.08,-0.3
+SDY-041,1,Soul Exchange,spell,Normal,,,Starter Deck: Yugi,SDY-041,Super Rare,1.14,0.39,1.14,0.39,0.0,-0.57,-0.39,-0.02
+RDS-ENSE4,1,Vampire Lord,monster,,dark,Zombie / Effect,Rise of Destiny: Special Edition,RDS-ENSE4,Ultra Rare,3.4,0.3,3.4,0.3,0.02,-0.07,0.01,-0.05
+CDIP-EN002,1,Cyberdark Edge,monster,,dark,Machine / Effect,Cyberdark Impact,CDIP-EN002,Super Rare,2.11,0.69,2.11,0.69,-0.0,-0.03,0.17,-0.14
+TLM-EN038,1,Brain Control,spell,Normal,,,The Lost Millennium,TLM-EN038,Super Rare,1.57,0.69,1.57,0.69,-0.02,-0.03,-0.1,-0.05
+SOI-EN047,1,Ancient Gear Castle,spell,Continuous,,,Shadow of Infinity,SOI-EN047,Super Rare,1.28,0.39,1.28,0.39,-0.09,0.0,-0.17,-0.02
+DPK-ENSE3,1,Hero Spirit,trap,Normal,,,Duelist Pack: Special Edition,DPK-ENSE3,Secret Rare,1.77,0.49,1.77,0.49,-0.22,-0.29,-0.3,0.44
+CDIP-EN005,1,Cyber Esper,monster,,fire,Machine / Effect,Cyberdark Impact,CDIP-EN005,Super Rare,1.16,0.3,1.16,0.3,0.0,-0.05,0.26,0.26
+SDJ-022,1,Penguin Soldier,monster,,water,Aqua / Effect,Starter Deck: Joey,SDJ-022,Super Rare,1.16,0.39,1.16,0.39,0.01,0.02,-0.15,-0.29
+CT2-EN006,1,Panther Warrior,monster,,earth,Beast-Warrior / Effect,Collectible Tins 2005,CT2-EN006,Secret Rare,3.6,2.15,3.6,2.15,0.01,-0.37,-0.39,-0.23
+STON-EN057,1,Birthright,trap,Continuous,,,Strike of Neos,STON-EN057,Super Rare,1.15,0.35,1.15,0.35,-0.01,0.09,-0.34,-0.38
+RDS-ENSE1,1,Diffusion Wave-Motion,spell,Normal,,,Rise of Destiny: Special Edition,RDS-ENSE1,Ultra Rare,3.27,0.3,3.27,0.3,-0.03,-0.1,0.23,0.03
+POTD-EN004,1,Neo-Spacian Flare Scarab,monster,,fire,Insect / Effect,Power of the Duelist,POTD-EN004,Super Rare,1.95,0.3,1.95,0.3,-0.03,0.0,-0.42,-0.53
+SD3-EN001,1,Infernal Flame Emperor,monster,,fire,Pyro / Effect,Structure Deck: Blaze of Destruction,SD3-EN001,Ultra Rare,1.14,0.49,1.14,0.49,0.02,0.01,0.03,-0.54
+SYE-025,2,Black Luster Ritual,spell,Ritual,,,Starter Deck: Yugi Evolution,SYE-025,Super Rare,1.19,0.49,2.38,0.98,0.0,-0.06,-0.35,-0.43
+CRV-EN016,1,Cybernetic Magician,monster,,light,Spellcaster / Effect,Cybernetic Revolution,CRV-EN016,Super Rare,1.14,0.39,1.14,0.39,0.0,-0.08,-0.11,0.07
+ROD-EN002,1,Knight's Title,spell,Normal,,,Yu-Gi-Oh! Reshef of Destruction promotional cards,ROD-EN002,Prismatic Secret Rare,3.69,1.74,3.69,1.74,0.07,-0.11,-0.17,0.46
+PP01-EN007,1,Shield Crush,spell,Normal,,,Premium Pack (TCG),PP01-EN007,Secret Rare,1.1,0.39,1.1,0.39,-0.01,0.0,-0.02,-0.02
+DP2-EN025,1,Inferno Reckless Summon,spell,Quick-Play,,,Duelist Pack: Chazz Princeton,DP2-EN025,Super Rare,2.88,1.72,2.88,1.72,-0.02,-0.05,-0.17,-0.26
+RDS-EN009,1,Silent Swordsman LV3,monster,,light,Warrior / Effect,Rise of Destiny,RDS-EN009,Ultra Rare,2.31,1.58,2.31,1.58,-0.02,-0.05,-0.31,-0.05
+STON-ENSE2,1,Shrink,spell,Quick-Play,,,Strike of Neos: Special Edition,STON-ENSE2,Super Rare,1.19,0.3,1.19,0.3,-0.79,-0.81,0.01,0.51
+CRV-EN015,1,Cyber Dragon,monster,,light,Machine / Effect,Cybernetic Revolution,CRV-EN015,Super Rare,3.8,0.99,3.8,0.99,0.1,0.13,0.56,0.56
+EEN-EN022,1,"Brron, Mad King of Dark World",monster,,dark,Fiend / Effect,Elemental Energy,EEN-EN022,Rare,1.07,0.3,1.07,0.3,-0.01,-0.02,0.03,-0.05
+DP1-EN006,1,Winged Kuriboh LV10,monster,,light,Fairy / Effect,Duelist Pack: Jaden Yuki,DP1-EN006,Rare,3.44,2.25,3.44,2.25,0.0,0.04,0.06,-0.14
+STON-EN038,1,Dark World Dealings,spell,Normal,,,Strike of Neos,STON-EN038,Super Rare,5.21,2.79,5.21,2.79,-0.02,-0.03,-0.16,-0.34
+WC4-002,1,Cipher Soldier,monster,,earth,Machine / Effect,Yu-Gi-Oh! World Championship Tournament 2004 promotional cards,WC4-002,Prismatic Secret Rare,1.98,0.98,1.98,0.98,-0.03,-0.11,-0.11,0.04
+DBT-EN003,1,Twinheaded Beast,monster,,fire,Beast / Effect,Yu-Gi-Oh! Destiny Board Traveler promotional cards,DBT-EN003,Super Rare,1.32,0.3,1.32,0.3,-0.13,-0.14,-0.08,-0.45
+DR1-EN006,1,Helpoemer,monster,,dark,Fiend / Effect,Dark Revelation Volume 1,DR1-EN006,Super Rare,2.87,0.99,2.87,0.99,-0.01,0.06,-0.09,0.1
+EOJ-EN022,1,Banisher of the Radiance,monster,,light,Fairy / Effect,Enemy of Justice,EOJ-EN022,Rare,2.03,0.3,2.03,0.3,-0.04,-0.1,-0.23,-0.25
+AST-009,1,The Agent of Force - Mars,monster,,light,Fairy / Effect,Ancient Sanctuary,AST-009,Super Rare,1.22,0.39,1.22,0.39,-0.08,0.03,-0.05,-0.59
+DP1-EN030,1,Clay Charge,trap,Normal,,,Duelist Pack: Jaden Yuki,DP1-EN030,Super Rare,1.16,0.39,1.16,0.39,0.01,0.04,0.07,0.05
+DL8-EN001,1,Acid Rain,spell,Normal,,,Duelist League Series 8 participation card,DL8-EN001,Super Rare,2.94,0.39,2.94,0.39,0.0,-0.0,-0.32,0.52
+CT2-EN003,1,Vorse Raider,monster,,dark,Beast-Warrior / Normal,Collectible Tins 2005,CT2-EN003,Secret Rare,4.5,0.99,4.5,0.99,0.12,0.01,0.07,0.51
+SDP-050,1,Gryphon Wing,trap,Normal,,,Starter Deck: Pegasus,SDP-050,Super Rare,1.05,0.3,1.05,0.3,0.0,0.01,-0.37,0.05
+EEN-EN050,1,Chthonian Blast,trap,Normal,,,Elemental Energy,EEN-EN050,Rare,1.02,0.3,1.02,0.3,-0.01,0.01,0.12,0.11
+RDS-EN045,1,Monster Reincarnation,spell,Normal,,,Rise of Destiny,RDS-EN045,Super Rare,1.81,0.69,1.81,0.69,-0.04,0.02,-0.26,-0.56
+SDP-040,1,Graceful Charity,spell,Normal,,,Starter Deck: Pegasus,SDP-040,Super Rare,3.44,1.58,3.44,1.58,-0.03,-0.02,0.13,-0.01
+LOB-E050,1,Mystical Elf,monster,,light,Spellcaster / Normal,Legend of Blue Eyes White Dragon,LOB-E050,Super Rare,19.76,13.22,19.76,13.22,0.02,-0.06,-0.02,-0.05
+CHIM-EN023,1,"Gizmek Yata, the Gleaming Vanguard",monster,,light,Machine / Effect,Chaos Impact,CHIM-EN023,Super Rare,1.37,0.49,1.37,0.49,-0.03,-0.23,0.0,0.0
+CHIM-EN009,1,Unchained Twins - Rakea,monster,,water,Fiend / Effect,Chaos Impact,CHIM-EN009,Rare,1.06,0.33,1.06,0.33,0.0,0.14,0.0,0.0
+CHIM-EN030,1,"Bayonater, the Baneful Barrel",monster,,dark,Zombie / Effect,Chaos Impact,CHIM-EN030,Common,0.97,0.25,0.97,0.25,-0.02,0.09,0.0,0.0
+CHIM-EN021,1,"World Legacy - ""World Key""",monster,,dark,Machine / Effect,Chaos Impact,CHIM-EN021,Common,1.0,0.25,1.0,0.25,-0.01,0.05,0.0,0.0
+CHIM-EN053,1,Marincess Battle Ocean,spell,Field,,,Chaos Impact,CHIM-EN053,Common,1.0,0.25,1.0,0.25,0.01,0.0,0.0,0.0
+CHIM-EN041,1,Marincess Wonder Heart,monster,,water,Cyberse / Link,Chaos Impact,CHIM-EN041,Common,1.0,0.25,1.0,0.25,-0.04,0.0,0.0,0.0
+CHIM-EN060,1,Wattrain,spell,Normal,,,Chaos Impact,CHIM-EN060,Common,1.0,0.25,1.0,0.25,-0.01,0.05,0.0,0.0
+CHIM-EN042,1,Marincess Sea Angel,monster,,water,Cyberse / Link,Chaos Impact,CHIM-EN042,Common,1.0,0.25,1.0,0.25,0.0,0.0,0.0,0.0
+CHIM-EN005,1,Chobham Armor Dragon,monster,,dark,Dragon / Effect,Chaos Impact,CHIM-EN005,Common,1.0,0.25,1.0,0.25,0.01,0.05,0.0,0.0
